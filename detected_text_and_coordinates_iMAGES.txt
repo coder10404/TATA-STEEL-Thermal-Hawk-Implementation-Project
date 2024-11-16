@@ -1,0 +1,2067 @@
+Detected Text in 1.jpg:
+ax: 471.1 min: 93.3]
+ug: 226.6 cen: 434.1
+Num
+
+
+--------------------
+Detected Text in 10.jpg:
+ax: 241.5 min: 21.2|
+ug: 141.4 cen: 224.7)
+Num
+
+122.0)
+
+
+--------------------
+Detected Text in 100.jpg:
+2023-04-23 10:01:31)
+
+Numd
+
+
+--------------------
+Detected Text in 11.jpg:
+ug: 155.4 cen: 258.1]
+Hunt
+
+
+--------------------
+Detected Text in 12.jpg:
+2023-04-22 00:14:07
+
+ug: 135.2 cen:
+>Numd.
+
+
+--------------------
+Detected Text in 13.jpg:
+2023-04-22 00:26:42)
+
+ug: 169.2 cen: 214.7
+Hunt
+
+
+--------------------
+Detected Text in 14.jpg:
+ug: 12?.? cen: 225. i 292.
+Nun :
+
+
+--------------------
+Detected Text in 15.jpg:
+ax: 354.6 min: 81.5]
+ug: 168.2 cen: 308.4 354
+Num
+
+147.3
+
+
+--------------------
+Detected Text in 16.jpg:
+ax? 344.9 min: 74.6) i g :
+ug: 132.0 cen: 260.4] . 344
+Num
+
+110.2]
+
+
+--------------------
+Detected Text in 17.jpg:
+ax: 302.5 min:
+ug: 152.5 cen:
+Num
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in 18.jpg:
+414
+
+
+--------------------
+Detected Text in 19.jpg:
+
+--------------------
+Detected Text in 2.jpg:
+ax: 471.1 min: 93.3]
+ug: 226.6 cen: 434.1
+Num
+
+
+--------------------
+Detected Text in 20.jpg:
+188.4 min:
+: 150.7 cen:
+
+76.1]
+143.5
+
+2023-04-22 02:22:37
+
+139.3
+
+
+--------------------
+Detected Text in 21.jpg:
+188.4 min:
+: 150.7 cen:
+
+76.1]
+143.5
+
+2023-04-22 02:22:37
+
+139.3
+
+
+--------------------
+Detected Text in 22.jpg:
+
+--------------------
+Detected Text in 23.jpg:
+2023-04-22 00:37:34]
+
+ug: 163.6 cen:
+Num
+
+
+--------------------
+Detected Text in 24.jpg:
+414
+
+
+--------------------
+Detected Text in 25.jpg:
+Atm. Temp: 2!
+
+--------------------
+Detected Text in 26.jpg:
+ug: 142.4 cen: 189.0 289
+Nun :
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in 27.jpg:
+2023-04-22 05
+
+
+--------------------
+Detected Text in 28.jpg:
+ax: 371.9 min: 76.6]
+ug: 134.9 cen: 307.0}
+Num
+
+
+--------------------
+Detected Text in 29.jpg:
+ug: 111.4 cen: 237. as ‘ 292
+Hunt
+
+
+--------------------
+Detected Text in 3.jpg:
+ax: 471.1 min: 93.3]
+ug: 226.6 cen: 434.1
+Num
+
+
+--------------------
+Detected Text in 30.jpg:
+ug: 172.8 cen: 326.0) | a 425
+Nun
+
+Atm. Temp: 2:
+
+--------------------
+Detected Text in 31.jpg:
+ug: 183.3 cen:
+Numd
+
+
+--------------------
+Detected Text in 32.jpg:
+2023-04-22 05:32:12]
+
+aug: 126.4 cen: 178.9}
+>Numd.
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in 33.jpg:
+ug: 109.7 cen:
+Num
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in 34.jpg:
+ax: 385.9 min: 79.2|
+ug: 134.7 cen: 363.3) = : 385
+Num
+
+107.9
+
+
+--------------------
+Detected Text in 35.jpg:
+
+--------------------
+Detected Text in 36.jpg:
+vg: 153.5 cen: 226.3)
+Num
+
+
+--------------------
+Detected Text in 37.jpg:
+2023-04-22 05:49:
+ug: 194.7 cen:
+Numd
+
+Atm. Temp: 2:
+
+
+--------------------
+Detected Text in 38.jpg:
+ug: 146.9 cen: 161.1
+Hunt
+
+Atm.Temp: 2!
+
+--------------------
+Detected Text in 39.jpg:
+320
+
+ug: 166.3 cen:
+Numd
+
+
+--------------------
+Detected Text in 4.jpg:
+ax: 471.1 min: 93.3]
+ug: 226.6 cen: 434.1
+Num
+
+
+--------------------
+Detected Text in 40.jpg:
+2023-04-22 04:24:42,
+
+wg: 127.8 cen: 120.0
+Hunt
+
+Atm. Temp: 2: 79.4
+
+
+--------------------
+Detected Text in 41.jpg:
+q x 2023-04-22 04:26:36
+ug: 1527.0 cen: 191. 257
+Num
+
+
+--------------------
+Detected Text in 42.jpg:
+2023-04-22 04:27:40)
+
+ug: 148.0 cen:
+Num
+
+atm. Temp: 2!
+
+--------------------
+Detected Text in 43.jpg:
+Atm. Temp: 2!
+
+--------------------
+Detected Text in 44.jpg:
+ug: 145.8 cen:
+Num
+
+
+--------------------
+Detected Text in 45.jpg:
+
+--------------------
+Detected Text in 46.jpg:
+22 05:21:50)
+
+¢
+$
+
+2023-(
+
+Atm. Temp: 2!
+
+ug: 159.0 cen:
+
+--------------------
+Detected Text in 47.jpg:
+2023-04-22 05:32:12]
+
+aug: 126.4 cen: 178.9}
+>Numd.
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in 48.jpg:
+2023-04-22 05:33:44
+
+avg: 105.5 cen: 122.3)
+Num
+
+
+--------------------
+Detected Text in 5.png:
+2023-03-27 00:04:39
+
+ug: 165.0 cen:
+Num
+
+
+--------------------
+Detected Text in 50.jpg:
+ug: 155.6 cen: 251.6) ae 397
+Hunt
+
+
+--------------------
+Detected Text in 51.jpg:
+ax: 401.6 min: 96.2|
+ug: 20B.1 cen: 277.9)
+Numd
+
+211.7)
+
+
+--------------------
+Detected Text in 52.jpg:
+06:03:26)
+
+ug: 180.2 cen:
+Numd
+
+
+--------------------
+Detected Text in 53.jpg:
+ug: 136.4 cen: 221. : z i 309
+Hunt
+
+
+--------------------
+Detected Text in 54.jpg:
+Atm. Temp: 2! 67.4
+
+
+--------------------
+Detected Text in 55.jpg:
+2023-04-23 10:02:32) 9
+
+si 281
+
+ug: 154.1 cen:
+Num
+
+
+--------------------
+Detected Text in 56.jpg:
+ug: 114.0 cen:
+Num
+
+
+--------------------
+Detected Text in 57.jpg:
+2023-04-22 06:29
+
+ug: 133.9 cen:
+Numd
+
+
+--------------------
+Detected Text in 58.jpg:
+ax: 420.8 min: 81. : 2023-04-22 06:
+ug: 163.6 cen:
+Numd
+
+
+--------------------
+Detected Text in 59.jpg:
+ax: 420.8 min: 81. : 2023-04-22 06:
+ug: 163.6 cen:
+Numd
+
+
+--------------------
+Detected Text in 6.jpg:
+2023-04-21 23:56:11]
+
+388
+
+
+--------------------
+Detected Text in 60.jpg:
+-2° 06:33:11]
+
+
+--------------------
+Detected Text in 61.jpg:
+2023-04-22 10:34:56
+
+aug: 103.5 cen: 104.9)
+
+
+--------------------
+Detected Text in 62.jpg:
+2023-04-22 11:03:32)5
+
+ug: 128.4 cen:
+Numd
+
+
+--------------------
+Detected Text in 63.jpg:
+ug: 222.? cen:
+Hunt
+
+
+--------------------
+Detected Text in 64.jpg:
+ug: 125.1 cen: 150. 248
+un :
+
+
+--------------------
+Detected Text in 65.jpg:
+2023-04-22 11:12:21]
+
+ug: 132.4 cen:
+Numd
+
+
+--------------------
+Detected Text in 66.jpg:
+ug: 123.6 cen:
+Numd
+
+
+--------------------
+Detected Text in 67.jpg:
+2023-04-22 11:22:47
+
+wg: 160.5 cen: 160.3
+Hunt
+
+
+--------------------
+Detected Text in 68.jpg:
+2023-04-22 11:23:59
+
+ug: 167.3 cen:
+Nund
+
+
+--------------------
+Detected Text in 69.jpg:
+ug: 194.6 cen: 305. 5 4 385
+Hunt
+
+
+--------------------
+Detected Text in 7.jpg:
+2023-04-21 23:59:49)
+
+
+--------------------
+Detected Text in 70.jpg:
+ax: 365.6 min: 97.08 04-22 11:
+ug: 233.9 cen:
+Numd
+
+
+--------------------
+Detected Text in 71.jpg:
+2023-04-22 11:33:53
+
+ug: 131.8 cen: 138.0
+Num
+
+
+--------------------
+Detected Text in 72.jpg:
+ug: 192.0 cen: 308. E- 61
+Hunt
+
+
+--------------------
+Detected Text in 73.jpg:
+
+--------------------
+Detected Text in 74.jpg:
+2023-04-22 11:42:52
+ug: 131.7 cen: E
+Num
+
+
+--------------------
+Detected Text in 75.jpg:
+ug: 147.2 cen: 186.8
+Hunt
+
+
+--------------------
+Detected Text in 76.jpg:
+ax: 335.8 min: 74.1]
+ug: 135.5 cen: 196.2)
+Num
+
+
+--------------------
+Detected Text in 77.jpg:
+ug: 183.5 cen:
+Numd ee
+
+153.4)
+
+
+--------------------
+Detected Text in 78.jpg:
+ug: 135.1 cen: 159.¢
+Hund
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in 79.jpg:
+2023-04-22 11:56:48)
+
+ug: 119.0 cen:
+Numd
+
+
+--------------------
+Detected Text in 8.jpg:
+2023-04-22 00:01:38
+
+aug: 103.7 cen: 101.9)
+>Num.
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in 80.jpg:
+4-22 12:01:17)
+
+ug: 197.5 cen:
+Numd
+
+
+--------------------
+Detected Text in 81.jpg:
+2023-04-22 12:03:51)
+
+ug: 121.9 cen: 145.2
+Numd
+
+
+--------------------
+Detected Text in 82.jpg:
+ax: 350.5 min: 62.
+ug: 152-1 cen: 224.1) =e 350
+Num is
+
+
+--------------------
+Detected Text in 83.jpg:
+ug: 142.5 cen:
+Numd
+
+
+--------------------
+Detected Text in 84.jpg:
+ug: 159.2 cen: 261. 2 366
+Nut ;
+
+
+--------------------
+Detected Text in 85.jpg:
+ug: 257.1 cen: 307.3
+Hunt
+
+
+--------------------
+Detected Text in 86.jpg:
+ug: 138.7 cen: 173.8 213
+Num i
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in 87.jpg:
+ug: 138.2 cen: 151.9
+Num
+
+C. Dist :0.
+
+
+--------------------
+Detected Text in 88.jpg:
+2023-04-22 12:29:55)
+
+ug: 154.7 cen:
+Num
+
+
+--------------------
+Detected Text in 89.jpg:
+12:32:49)
+
+P
+
+
+--------------------
+Detected Text in 9.jpg:
+2023-04-22 00:03:34]
+
+ug: 142.9 cen: 159.5
+Hunt
+
+
+--------------------
+Detected Text in 90.jpg:
+g 2023-04-22 12:34:13
+ug: 114.6 cen: 1:
+Num
+
+Atm.Temp: 2!
+
+
+--------------------
+Detected Text in 91.jpg:
+ug: 129.1 cen:
+Num
+
+
+--------------------
+Detected Text in 92.jpg:
+2023-04-22
+
+185
+
+
+--------------------
+Detected Text in 93.jpg:
+ug: 130.3 cen: 203.9) 294
+und
+
+
+--------------------
+Detected Text in 94.jpg:
+2023-04-22 06:25:37]
+
+ug: 126.8 cen: 154.9
+Hunt
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in 95.jpg:
+ug: 164.7 cen:
+Num
+
+
+--------------------
+Detected Text in 96.jpg:
+E zi 2023-04-22 19:32:31]
+ug: 188.0 cen: 273.4 419
+Num
+
+
+--------------------
+Detected Text in 97.jpg:
+ug: 193.5 cen:
+Numd
+
+
+--------------------
+Detected Text in 98.jpg:
+ug: 135.1 cen: 234.6) : 264
+Nun ES
+
+CDist:0.70 Atm. Temp: 25.00 € :1.00)
+
+
+--------------------
+Detected Text in 99.jpg:
+ax: 321.3 min:
+ug: 168.8 cen:
+Numd
+
+
+--------------------
+Detected Text in demoimage.png:
+2023-01-30 20:04:34]
+
+
+--------------------
+Detected Text in Image_FBF240320231854.jpg:
+ug: 189.5 cen:
+Numd
+
+‘Atm. Temp: 2:
+
+
+--------------------
+Detected Text in Image_FBF240320231855.jpg:
+2023-03-24 18:52:40fm
+
+ug: 168.5 cen:
+Num
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in Image_FBF240320231856.jpg:
+2023-03-24 18:53:37
+
+pug: 131.1 cen:
+>Numd
+P
+
+
+--------------------
+Detected Text in Image_FBF240320231915.jpg.jpg:
+jax: 391.6 min: 76.6]
+ug: 185.0 cen: 319.3)
+Numd
+
+157.7
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in Image_FBF240320231919.jpg:
+1399.1 min: 81. 2023-03-24 19:16:
+yg: 205.8 cen:
+
+
+--------------------
+Detected Text in Image_FBF240320231921.jpg:
+ug: 127.6 cen: 119.7
+Hunt
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF240320231922.jpg:
+z 2023-03-24 19:19:44]
+ug: 157.0 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF240320231923.jpg:
+2023-03-24 19:20:39)
+
+ug: 151.4 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF240320231924.jpg:
+fax: 176.1 min: 75.1) 2023-03-24 19:21:37
+ug: 122.7 cen: 113.8 wil
+Num
+
+128.9)
+
+~Tenp: 25.00 € :1.00
+
+
+--------------------
+Detected Text in Image_FBF240320231925.jpg:
+ug: 162.7 cen:
+Numd
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF240320231926.jpg:
+2023-03-24 19:23:38
+
+ug: 113.5 cen: 103.4
+Numd
+
+
+--------------------
+Detected Text in Image_FBF240320231927.jpg:
+ax: 411.1 min: 73.2] S
+ug: 140.2 cen: 375.1) 411
+Numd
+
+102.4
+
+
+--------------------
+Detected Text in Image_FBF240320231928.jpg:
+2023-03-24 19:25
+
+ug: 182.8 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF240320231929.jpg:
+ax: 434.6 min:
+pug: 209.0 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~240320231930.jpg:
+ax: 449.5 min:
+ug: 209.7 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~240320231931.jpg:
+ug: 119.6 cen:
+>Numd
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF~240320231932.jpg:
+2023-03-24 19:29:38
+
+ug: 149.3 cen: 144.7
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~240320231933.jpg:
+ax: 263.6 min: 73.4
+ug: 150.4 cen: 200.6)
+Num
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in Image_FBF~240320231934.jpg:
+ug: 196.1 cen:
+Numd
+
+Atm. Temp
+
+
+--------------------
+Detected Text in Image_FBF~240320231935.jpg:
+ug: 181.9 cen:
+Numd
+
+Atm. Temp? 2!
+
+
+--------------------
+Detected Text in Image_FBF~240320231936.jpg:
+ug: 160.2 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~240320231937.jpg:
+03-24 19:34:39}
+
+ug: 202.7 cen:
+Num
+
+Atm. Temp: 2! cn
+
+
+--------------------
+Detected Text in Image_FBF~240320231938.jpg:
+ug: 187.9 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~240320231939.jpg:
+ug: 134.5 cen: 163. 224.
+Nun ’ :
+
+
+--------------------
+Detected Text in Image_FBF~240320231940.jpg:
+ug: 207.1 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~240320231941.jpg:
+q 2023-03-24 19:
+ug: 123.7 cen: 112.4
+Numd
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF~240320231942.jpg:
+ug: 173.8 cen: 178.4 G >) 208
+Nun
+
+
+--------------------
+Detected Text in Image_FBF~240320231943.jpg:
+iy
+5
+&
+tS]
+5
+iS
+re
+
+
+--------------------
+Detected Text in Image_FBF~240320231944.jpg:
+23-03-24 19:
+
+ug: 127.1 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~240320231945.jpg:
+359
+
+ug: 154.8 cen:
+Num
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF~240320231946.jpg:
+2023-03-24 19:43:40)
+
+ug: 107.5 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~240320231947.jpg:
+ug: 165.8 cen: 319.3
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~240320231948.jpg:
+ug: 218.4 cen: 361.9
+Num
+
+
+--------------------
+Detected Text in Image_FBF~240320231949.jpg:
+ax: 410.6 min: 87.5]
+ug: 184.7 cen: 390.8}
+Numd
+
+164.3
+
+
+--------------------
+Detected Text in Image_FBF~240320231950.jpg:
+ug: 267.6 cen:
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~240320231951.jpg:
+2023-03-24 19:48:41)
+
+
+--------------------
+Detected Text in Image_FBF~240320231952.jpg:
+2023-03-24 19:49:35
+
+fog: 172.7 cen: 173.0
+bNunt
+
+
+--------------------
+Detected Text in Image_FBF~240320231953.jpg:
+
+--------------------
+Detected Text in Image_FBF~240320231954.jpg:
+ax: 169.6 min: 70.2]
+ug: 115.7 cen: 107.1}
+Num
+
+121.2|
+
+
+--------------------
+Detected Text in Image_FBF~240320231955.jpg:
+ug: 174.9 cen: 289.9
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~240320231956.jpg:
+ug: 197.1 cen: 344.3
+Hunt
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF~240320231957.jpg:
+2023-03-24 19:54:
+
+338
+
+ug: 155.4 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~240320231958.jpg:
+ug: 129.9 cen: 147.6
+Num
+
+~fitm. Temp
+
+
+--------------------
+Detected Text in Image_FBF~240320231959.jpg:
+hug: 198.3 cen:
+Nun
+
+
+--------------------
+Detected Text in Image_FBF~240320232000.jpg:
+ug: 245.0 cen: 294.0
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~240320232001.jpg:
+ug: 222.7 cen: 316.6
+Num
+
+
+--------------------
+Detected Text in Image_FBF~240320232002.jpg:
+2023-03-24 19:59:32]
+
+ug: 163.2 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~240320232003.jpg:
+2023-03-24 20:00:37
+
+ug: 136.5 cen: 146.5
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~240320232004.jpg:
+2023-03-24 20:01:37
+
+pug: 199.4 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~240320232005.jpg:
+ug: 153.8 cen:
+Numd
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in Image_FBF~240320232006.jpg:
+ug: 172.6 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~240320232008.jpg:
+: 2023-03-24 20:05:43
+ug: 146.4 cen: 163.7
+Numd
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF~240320232009.jpg:
+‘ug: 203.4 cen: 307.5)
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~240320232010.jpg:
+ug: 233.2 cen: 278.9
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~240320232011.jpg:
+
+--------------------
+Detected Text in Image_FBF~240320232012.jpg:
+jug: 176.6 cen:
+bNunt
+
+
+--------------------
+Detected Text in Image_FBF~240320232013.jpg:
+2023-03-24 20:10:39
+ug: 133.3 cen:
+Num
+P:
+
+‘c.Dist:0.70-Atm.Temp: 25.00 € :1.00
+
+
+--------------------
+Detected Text in Image_FBF~240320232014.jpg:
+2023-03-24 20:11:38)
+
+‘ug: 165.3 cen: 184.7
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~240320232015.jpg:
+2023-03-24 20:12:36]
+
+ug: 156.5 cen:
+
+
+--------------------
+Detected Text in Image_FBF~240320232016.jpg:
+2023-03-24 20:13:38
+ug: 194.4 cen:
+Numd
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF~240320232017.jpg:
+2023-03-24 20:14:38)
+
+ug: 144.6 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~240320232018.jpg:
+ug: 173.9 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~240320232019.jpg:
+ug: 184.3 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~310320231029.jpg:
+2023-03-31 10:26:36
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in Image_FBF~310320231030.jpg:
+ax: 348.9 min: 69.2|
+ug: 116.2 cen: 289.4 : 348
+Num
+
+87.1
+
+
+--------------------
+Detected Text in Image_FBF~310320231031.jpg:
+ax: 318.0 min: 66. | 2023-03-31 10:28:32)
+ug: 143.3 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~310320231032.jpg:
+ug: 157.1 cen: 313. “ 361
+un
+
+
+--------------------
+Detected Text in Image_FBF~310320231033.jpg:
+175.8 m 2023-03-31 10:30:34
+aug: 125.1 cen
+>Nund,
+P:
+
+
+--------------------
+Detected Text in Image_FBF~310320231034.jpg:
+wg: 179.8 cen: 200.9
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231035.jpg:
+2023-03-31 10:32:42]
+
+aug: 130.8 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~310320231037.jpg:
+aug: 113.1 cen: 115.0
+>Numt
+Pi 97.0
+
+
+--------------------
+Detected Text in Image_FBF~310320231038.jpg:
+2023-03-31 10:35:42
+ug: 106.0 cen:
+Num
+
+CDist:0.70 Atm. Temp:
+
+
+--------------------
+Detected Text in Image_FBF~310320231039.jpg:
+ug: 137.7 cen:
+>Numd.
+P
+
+Atm. Temp
+
+
+--------------------
+Detected Text in Image_FBF~310320231040.jpg:
+ug: 132.7 cen: 156. : b
+Num ‘
+
+
+--------------------
+Detected Text in Image_FBF~310320231041.jpg:
+ug: 160.3 cen:
+>Numt
+
+| |
+
+Atm.Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF~310320231042.jpg:
+2023-03-31 10:39:34
+
+aug: 165.0 cen: 187.8
+>Nunt
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231043.jpg:
+2023-03-31 10:40:34
+
+CDist:0.70 Atm. Temp:
+
+
+--------------------
+Detected Text in Image_FBF~310320231044.jpg:
+63.0 2023-03-31 16:41:34
+aug: 197.9 cen: 216.8.
+>Num
+P: 177.0
+
+
+--------------------
+Detected Text in Image_FBF~310320231045.jpg:
+ug: 205.3 cen:
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231046.jpg:
+2023-03-31 10:43:33
+
+aug: 115.3 cen:
+>Numd
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231047.jpg:
+2023-03-31 10:44:32
+eae
+
+C.Dist :0. 78
+
+
+--------------------
+Detected Text in Image_FBF~310320231048.jpg:
+2023-03-31 10:45:35
+
+
+--------------------
+Detected Text in Image_FBF~310320231058.jpg:
+2023-03-31 10:55:37
+
+ug: 216.1 cen: 231.6
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231059.jpg:
+2023-03-31 10:56:34 =
+
+
+--------------------
+Detected Text in Image_FBF~310320231100.jpg:
+§
+8
+a
+Pa
+a
+&
+2
+
+--------------------
+Detected Text in Image_FBF~310320231101.jpg:
+2023-03-31 10:!
+
+
+--------------------
+Detected Text in Image_FBF~310320231102.jpg:
+2023-03-31 10:59:34
+aug: 163.7 cen:
+>Numd
+P
+
+Atm.Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF~310320231103.jpg:
+2023-03-31 11:00:
+
+
+--------------------
+Detected Text in Image_FBF~310320231122.jpg:
+2023-03-31 11:19:37)
+aug: 177.6 cen: 305.6) : Biz
+>Nund, ae
+
+Atm. Temp: 2! ’ [72.4
+
+--------------------
+Detected Text in Image_FBF~310320231124.jpg:
+2023-03-31 11:21:40
+
+
+--------------------
+Detected Text in Image_FBF~310320231126.jpg:
+ug: 179.6 cen:
+>Numd.
+
+
+--------------------
+Detected Text in Image_FBF~310320231127.jpg:
+max: 225.4 min: 25 923-03-31 11:24:38
+aug: 196.1 cen: 195.
+
+DNunt
+
+P: 172.2
+
+
+--------------------
+Detected Text in Image_FBF~310320231128.jpg:
+max: 230.4 min: 63.0) 2023-03-31 11:25:35}
+aug: 197.2 cen: 185.2)
+>Nund
+
+P: 175.8
+
+c 70 Atn.Temp: 25.
+
+--------------------
+Detected Text in Image_FBF~310320231129.jpg:
+2023-03-31 11:26:34
+
+‘ug: 239.0 cen: 233.5|
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231131.jpg:
+2023-03-31 11:28:36)
+
+ug: 175.2 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~310320231132.jpg:
+023-03-31 11:29:33)
+
+ug: 187.0 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~310320231133.jpg:
+aug: 283.0 cen:
+>Numd.
+
+
+--------------------
+Detected Text in Image_FBF~310320231134.jpg:
+3-03-31 11:31:31)
+
+aug: 292.1 cent
+>Num.
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231135.jpg:
+aug: 304.6 cen: 323.3
+Nun
+P: 223.9
+
+
+--------------------
+Detected Text in Image_FBF~310320231136.jpg:
+70.4 2023-03-31 11:33:36
+aug: 124.1 cen: 120.0)
+>Num
+ee 102.8
+
+‘C Dist:0.70-- Atm. Temp: 2 i
+ae
+
+
+--------------------
+Detected Text in Image_FBF~310320231137.jpg:
+2023-03-31 11:34:35
+
+aug: 177.1 cen:
+>Num.
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231138.jpg:
+5 70.2 2023-03-31 11:35:37
+ug: 171.8 cen: 183.7
+Numd
+
+146.2
+
+
+--------------------
+Detected Text in Image_FBF~310320231139.jpg:
+max: 198.2 min: 68.4 2023-03-31 11:36:35]
+aug: 163.6 cen: 165.6
+>Nund
+
+Pi 137.1
+
+
+--------------------
+Detected Text in Image_FBF~310320231140.jpg:
+
+--------------------
+Detected Text in Image_FBF~310320231141.jpg:
+2023-03-31 11:38:35
+
+See
+
+--------------------
+Detected Text in Image_FBF~310320231142.jpg:
+‘ 20.4|
+aug: 249.5 cen: 247.9)
+>Numt
+
+ES 200.9)
+
+
+--------------------
+Detected Text in Image_FBF~310320231143.jpg:
+z ~ 2023-03-31 11:40:36)
+ug: 206.0 cen:
+Num,
+
+
+--------------------
+Detected Text in Image_FBF~310320231144.jpg:
+ug: 187.4 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~310320231145.jpg:
+ug: 228.6 cen:
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231146.jpg:
+76.3 2023-03-31 11:43:38
+aug: 137.3 cen: 142.4
+
+105.7
+
+
+--------------------
+Detected Text in Image_FBF~310320231147.jpg:
+ug: 135.3 cen:
+Num
+
+Atm.Temp: 25.00 § :1.00
+
+
+--------------------
+Detected Text in Image_FBF~310320231148.jpg:
+2023-03-31 11:
+
+ug: 174.9 cen: 210.9
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231149.jpg:
+ug: 146.9 cen: 250. E
+Num
+
+ray
+
+
+--------------------
+Detected Text in Image_FBF~310320231150.jpg:
+ug: 174.7 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~310320231151.jpg:
+ug: 210.5 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~310320231152.jpg:
+ug: 216.4 cen: 278.1
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231153.jpg:
+2023-03-31 11:50:36]
+
+
+--------------------
+Detected Text in Image_FBF~310320231154.jpg:
+wg: 189.3 cen: 257.5]
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231155.jpg:
+ug: 254.1 cen:
+Mund
+
+
+--------------------
+Detected Text in Image_FBF~310320231156.jpg:
+2023-03-31
+
+
+--------------------
+Detected Text in Image_FBF~310320231157.jpg:
+aug: 248.6 cen: 316.8)
+>Num
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231158.jpg:
+2023-03-31 11:55:35
+
+pug: 154.1 cen: 154.4
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231159.jpg:
+76.3 2023-03-31 11:56:31
+aug: 178.6 cen: 181.7
+>Num
+Pi 142.8
+
+
+--------------------
+Detected Text in Image_FBF~310320231200.jpg:
+2023-03-31 11:57:30
+
+ug: 204.7 cen:
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231201.jpg:
+aug: 184.7 cen: 215.9
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231202.jpg:
+ug: 172.2 cen: 173.3
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231203.jpg:
+03-31 12:00:
+
+ug: 166.3 cen: 325.6)
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231204.jpg:
+ug: 205.9 cen:
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231205.jpg:
+max: 305.3 min: 76.8 2023-63-31 12:02:31
+aug: 256.8 cen: 273.1
+
+>Numd.
+
+P
+
+214.5
+
+
+--------------------
+Detected Text in Image_FBF~310320231206.jpg:
+2023-03-31 12:03:30
+
+aug: 237.2 cen:
+>Numd.
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231207.jpg:
+2023-03-31 12:04:29
+aug: 126.9 cen: . L
+
+Atm. Temp: 25.
+
+
+--------------------
+Detected Text in Image_FBF~310320231208.jpg:
+2023-03-31 12:05:
+
+ug: 162.8 cen: 164.5
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~310320231209.jpg:
+A 184.3 min: 64.3 2023-03-31 12:06:31
+ug: 149.2 cen: 150.7
+
+Nun
+P:
+
+129.5
+
+c Dist :0
+
+--------------------
+Detected Text in Image_FBF~310320231210.jpg:
+2023-03-31 12:07:36
+
+
+--------------------
+Detected Text in Image_FBF~310320231211.jpg:
+2023-03-31 12:08:31)
+
+ug: 157.8 cen: 256.1
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231212.jpg:
+z z 2023-03-
+ug: 149.6 cen: 232.5) Be | 25
+Num,
+
+
+--------------------
+Detected Text in Image_FBF~310320231213.jpg:
+2023-03-31 12:10:35)
+
+aug: 212.4 cen:
+>Numd
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231214.jpg:
+ug: 208.9 cen:
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231215.jpg:
+
+--------------------
+Detected Text in Image_FBF~310320231216.jpg:
+023-03-31 12:13:30)
+
+aug: 220.6 cen: 271.3
+>Nund.
+
+
+--------------------
+Detected Text in Image_FBF~310320231217.jpg:
+2023-03-31 12:14:37
+aug: 130.1 cen: 126.3
+
+6
+
+Atm.Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF~310320231218.jpg:
+aug: 161.3 cen:
+>Numd
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231219.jpg:
+max: 240.5 min: 62.0 2023-03-31 12:16:32
+aug: 217.0 cen: 214.4
+
+>Nunt
+
+P
+
+183.7
+
+--------------------
+Detected Text in Image_FBF~310320231220.jpg:
+ug: 161.0 cen:
+Num
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF~310320231221.jpg:
+max: 285.1 min:
+
+7.4) 2023-03-31 12:18:33
+aug: 225.5 cen: 243.7
+
+>Nund
+
+P: 191.3
+
+
+--------------------
+Detected Text in Image_FBF~310320231222.jpg:
+31 12:19:36)
+
+ug: 172.1 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~310320231223.jpg:
+ug: 214.4 cen:
+
+C,Dist:0.70 Atm. Temp:
+
+
+--------------------
+Detected Text in Image_FBF~310320231224.jpg:
+aug: 221.1 cen:
+>Num
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231225.jpg:
+g 93-31 12:22:31)
+ug: 169.8 cen: 183.2
+Num
+134.
+
+Dist :0.70—
+
+
+--------------------
+Detected Text in Image_FBF~310320231226.jpg:
+2023-03-31 12:23:32]
+
+ug: 288.3 cen:
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231227.jpg:
+ug: 144.3 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~310320231228.jpg:
+ax: 176.3 min: 63.3] 2023-03-31 12:25:33
+ug: 156.3 cen: 152.7
+Hunt
+
+139.4]
+
+
+--------------------
+Detected Text in Image_FBF~310320231235.jpg:
+6023-03-31 12:32:40)
+
+ug: 244.5 cen:
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231236.jpg:
+é 2023-03-31 12:33:31
+ug: 216.6 cen: 286.3
+Numd
+
+“Temp: 25.00 § :1.00]
+
+
+--------------------
+Detected Text in Image_FBF~310320231238.jpg:
+2023-03-31 12:35:38
+
+aug: 201.7 cen:
+>Numd.
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231239.jpg:
+2023-03-31 12:36:
+
+wg: 165.9 cen: 168.3
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231240.jpg:
+ug: 149.0 cen:
+Num
+
+
+--------------------
+Detected Text in Image_FBF~310320231241.jpg:
+2023-03-31 12:38:30)
+
+
+--------------------
+Detected Text in Image_FBF~310320231242.jpg:
+2023-03-31 12:39:31]
+
+ug: 190.4 cen: 227.5
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231243.jpg:
+aug: 170.7 cen:
+>Num.
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231244.jpg:
+4 2023-03-31 12:
+
+aug: 221.7 cent
+>Num
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231245.jpg:
+E 67.9. 2023-03-31 12:42:
+ug: 232.8 cen: a
+
+Numd
+189.7
+
+
+--------------------
+Detected Text in Image_FBF~310320231246.jpg:
+2023-03-31 12:43:31
+
+ug: 294.0 cen: 287.1
+Nund
+
+
+--------------------
+Detected Text in Image_FBF~310320231247.jpg:
+2023-03-31 12:44:31)
+
+
+--------------------
+Detected Text in Image_FBF~310320231248.jpg:
+aug: 124.7 cen: 121.4)
+>Numd
+P: 104.4
+
+Atm. Temp:
+
+
+--------------------
+Detected Text in Image_FBF~310320231249.jpg:
+2023-03-31 12:46:31
+
+
+--------------------
+Detected Text in Image_FBF~310320231250.jpg:
+Ry
+8
+is
+&
+Si
+a
+i
+
+2023-03.
+
+aug: 179.6 cent
+
+--------------------
+Detected Text in Image_FBF~310320231342.jpg:
+aug: 208.0 cen:
+Numd
+
+
+--------------------
+Detected Text in Image_FBF~310320231348.jpg:
+ax: 312.6 min: 51.7]
+ug: 167.0 cen: 273.6)
+Num
+
+131.9)
+
+Atm.Temp: 2!
+
+--------------------
+Detected Text in Image_FBF~310320231620.jpg:
+2023-03-31 16:17:36
+
+‘C Dist:0.70 Atm. Temp: 25.00 1.00)
+
+--------------------
+Detected Text in Image_FBF~310320231624.jpg:
+2023-03-31 16:21:34]
+
+
+--------------------
+Detected Text in Image_FBF~310320231626.jpg:
+ug: 198.2 cen: 295.9) : 323
+Nun : :
+
+
+--------------------
+Detected Text in Image_FBF~310320231702.jpg:
+a 72.4 2023-03-31 16:59:42)
+ug: 206.8 cen: 215.9
+Numd
+
+158.3
+
+
+--------------------
+Detected Text in Image_FBF~310320231704.jpg:
+31 17:01:39
+
+aug: 302.6 cen:
+>Numd.
+P
+
+
+--------------------
+Detected Text in Image_FBF~310320231706.jpg:
+ax: 239.1 min: 66.9] 2023-03-31 17:03:52
+vg: 196.2 cen: 195.0) s
+Num.
+
+166.7
+
+
+--------------------
+Detected Text in Image_FBF~310320231714.jpg:
+e 76.6 2023-03-31 17:11:37
+ug: 195.8 cen: 199.8
+Numd
+154.4
+
+Atm.Temp: 2!
+
+
+--------------------
+Detected Text in Image_FBF~310320231715.jpg:
+2023-03-31 17:12:42
+
+ug: 208.7 cen: 215.1
+Hunt
+
+
+--------------------
+Detected Text in Image_FBF~310320231716.jpg:
+Z 2023-03-31 17:13:48
+ug: 205.6 cen: 226.2
+Num
+
+Atm.Temp: 2!
+
+
+--------------------
+Detected Text in test.jpg.jpg:
+2023-03-24 15:39:22]
+
+
+--------------------

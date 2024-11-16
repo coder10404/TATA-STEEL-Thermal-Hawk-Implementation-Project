@@ -1,0 +1,7677 @@
+Detected Text in frame0.jpg:
+ug: 162.2 cen: 281. 234,
+Nun
+
+
+--------------------
+Detected Text in frame1.jpg:
+aug: 162.2 cen: 281.4) 234
+Hunt
+
+
+--------------------
+Detected Text in frame10.jpg:
+avg: 153.2 cen:
+>Numd.
+
+
+--------------------
+Detected Text in frame100.jpg:
+2023-09-04 15:35:50}
+
+150
+
+Atm.Temp: 25.00. &
+
+--------------------
+Detected Text in frame1000.jpg:
+2023-03-04 15:36:26]
+
+
+--------------------
+Detected Text in frame1001.jpg:
+305,
+
+
+--------------------
+Detected Text in frame1002.jpg:
+2023-09-04
+
+305
+
+
+--------------------
+Detected Text in frame1003.jpg:
+2023-09-04
+
+338
+
+
+--------------------
+Detected Text in frame1004.jpg:
+338)
+
+
+--------------------
+Detected Text in frame1005.jpg:
+338
+
+--------------------
+Detected Text in frame1006.jpg:
+ax: 338.8 min: 82. B) 2023-09-04 15:36:27
+aug: 140.1 cen: 336.0 i 338
+>Num1 C
+
+
+--------------------
+Detected Text in frame1007.jpg:
+aug: 140.1 cen: 336.0
+SHumd
+
+
+--------------------
+Detected Text in frame1008.jpg:
+
+--------------------
+Detected Text in frame1009.jpg:
+
+--------------------
+Detected Text in frame101.jpg:
+Atm.Temp: 25
+
+--------------------
+Detected Text in frame1010.jpg:
+
+--------------------
+Detected Text in frame1011.jpg:
+2023-09-04 15:36:29
+
+
+--------------------
+Detected Text in frame1012.jpg:
+2023-03-04 15:36:27)
+
+338
+
+
+--------------------
+Detected Text in frame1013.jpg:
+338
+
+
+--------------------
+Detected Text in frame1014.jpg:
+338
+
+
+--------------------
+Detected Text in frame1015.jpg:
+ax: 338.8 min: 82.
+aug: 140.1 cen: 336.0 j 338
+
+
+--------------------
+Detected Text in frame1016.jpg:
+338
+
+
+--------------------
+Detected Text in frame1017.jpg:
+aug: 140.1 cen: 336. SE
+baum
+
+
+--------------------
+Detected Text in frame1018.jpg:
+aug: 140.1 cen: 336. 338
+>Numd
+
+rE SE
+
+--------------------
+Detected Text in frame1019.jpg:
+338
+
+
+--------------------
+Detected Text in frame102.jpg:
+152
+
+Atm.Temp: 25
+
+--------------------
+Detected Text in frame1020.jpg:
+338
+
+
+--------------------
+Detected Text in frame1021.jpg:
+338.8
+
+--------------------
+Detected Text in frame1022.jpg:
+
+--------------------
+Detected Text in frame1023.jpg:
+2023-09-04 15:36:27]
+
+
+--------------------
+Detected Text in frame1024.jpg:
+
+--------------------
+Detected Text in frame1025.jpg:
+
+--------------------
+Detected Text in frame1026.jpg:
+
+--------------------
+Detected Text in frame1027.jpg:
+aug: 134.2 cen: 357. 363
+Hum,
+
+
+--------------------
+Detected Text in frame1028.jpg:
+363
+
+
+--------------------
+Detected Text in frame1029.jpg:
+363
+
+
+--------------------
+Detected Text in frame103.jpg:
+2023-09-04
+
+Atm.Temp: 25.00. &
+
+--------------------
+Detected Text in frame1030.jpg:
+2023-09-04 15336328)
+
+363
+
+
+--------------------
+Detected Text in frame1031.jpg:
+2023-09-04 15:36:28)
+
+
+--------------------
+Detected Text in frame1032.jpg:
+363
+
+
+--------------------
+Detected Text in frame1033.jpg:
+
+--------------------
+Detected Text in frame1034.jpg:
+
+--------------------
+Detected Text in frame1035.jpg:
+363
+
+
+--------------------
+Detected Text in frame1036.jpg:
+363
+
+
+--------------------
+Detected Text in frame1037.jpg:
+363
+
+
+--------------------
+Detected Text in frame1038.jpg:
+363
+
+
+--------------------
+Detected Text in frame1039.jpg:
+7 2023-09-04 15:36:28)
+
+363
+
+
+--------------------
+Detected Text in frame104.jpg:
+Atm.Temp: 25.00. &
+
+--------------------
+Detected Text in frame1040.jpg:
+363
+
+Bg
+
+
+--------------------
+Detected Text in frame1041.jpg:
+hug: 134.2 cen:
+Num
+
+
+--------------------
+Detected Text in frame1042.jpg:
+ax: 363.5 min: 80.1] 2023-09-04 15:36:26}
+ug: 134.2 cen: 357.4 3
+pNund ‘
+
+363
+
+
+--------------------
+Detected Text in frame1043.jpg:
+ax: 363.5 min: 80.
+aug: 134.2 cen: 357. 363
+>Numt
+
+
+--------------------
+Detected Text in frame1044.jpg:
+ax: 363.5 min: 80.1]
+ug: 134.2 cen: 357.4] : 363
+
+
+--------------------
+Detected Text in frame1045.jpg:
+ax: 363.5 min: 80.1]
+ug: 134.2 cen: 357.4] 363
+
+
+--------------------
+Detected Text in frame1046.jpg:
+ax: 363.5 min: 80.1]
+ug: 134.2 cen: 357.4} : 363
+
+
+--------------------
+Detected Text in frame1047.jpg:
+ax: 363.5 min: 80.1]
+ug: 134.2 cen: 357.4 a a 363
+
+
+--------------------
+Detected Text in frame1048.jpg:
+ax: 363.5 min: 80.1]
+ug: 134.2 cen: 357.4)
+
+215.4)
+
+
+--------------------
+Detected Text in frame1049.jpg:
+
+--------------------
+Detected Text in frame105.jpg:
+Atm.Temp: 25.00. &
+
+--------------------
+Detected Text in frame1050.jpg:
+| 2023-09-04 15:36:26]
+
+jax? 363.5 min: 80.
+ug: 134.2 cen: 357.1]
+
+363
+
+Numd
+
+
+--------------------
+Detected Text in frame1051.jpg:
+ax: 363.5 min: 80.
+wg: 134.2 cen: 357.1) : 363.
+Num,
+
+
+--------------------
+Detected Text in frame1052.jpg:
+ax: 341.1 min: 82.0
+ug: 141.2 cen: 337.4 363.
+Num, :
+
+
+--------------------
+Detected Text in frame1053.jpg:
+ug: 141.2 cen: 337. a En
+Nun
+
+
+--------------------
+Detected Text in frame1054.jpg:
+ug: 141.2 cen: 337. E "3 341
+Hunt
+
+
+--------------------
+Detected Text in frame1055.jpg:
+ug: 141.2 cen: 337. a z L34i4
+
+Nund
+
+
+--------------------
+Detected Text in frame1056.jpg:
+ug: 141.2 cen: 337. 341
+Num ;
+
+
+--------------------
+Detected Text in frame1057.jpg:
+ug: 141.2 cen:
+Nund
+
+
+--------------------
+Detected Text in frame1058.jpg:
+gi 141.2 cen: 337, Ens
+
+Numd
+
+
+--------------------
+Detected Text in frame1059.jpg:
+
+--------------------
+Detected Text in frame106.jpg:
+rit
+
+Atm.Temp: 25
+
+--------------------
+Detected Text in frame1060.jpg:
+Wg: 141.2 cen: 337, ‘ Eas
+
+Nund
+
+
+--------------------
+Detected Text in frame1061.jpg:
+Mg: 141.2 cen: 332. : . 3st
+
+Nund
+
+
+--------------------
+Detected Text in frame1062.jpg:
+ug: 141.2 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame1063.jpg:
+ax? 341.1 min: 82.9)
+ug: 141.2 cen: 337.4|
+>Numt
+
+
+--------------------
+Detected Text in frame1064.jpg:
+ug: 141.2 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame1065.jpg:
+ug: 141.2 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame1066.jpg:
+ax? 341.1 min: 62.9)
+ug: 141.2 cen: 337.4|
+>Numt
+
+
+--------------------
+Detected Text in frame1067.jpg:
+2023-09-04 15:36:29
+
+ug: 141.2 cen:
+
+und
+
+
+--------------------
+Detected Text in frame1068.jpg:
+ug: 141.2 cen:
+Num
+
+
+--------------------
+Detected Text in frame1069.jpg:
+ug: 141.2 cen:
+Num
+
+
+--------------------
+Detected Text in frame107.jpg:
+172,
+
+
+--------------------
+Detected Text in frame1070.jpg:
+ug: 141.2 cen:
+
+Numd
+
+2023-09-04 15:36:29}
+
+
+--------------------
+Detected Text in frame1071.jpg:
+
+--------------------
+Detected Text in frame1072.jpg:
+ax: 341.1 min: 82.0) 2023-09-04
+aug: 141.2 cen: 337.4) :
+
+213.6)
+
+
+--------------------
+Detected Text in frame1073.jpg:
+ax: 341.1 min: 82.0)
+
+
+--------------------
+Detected Text in frame1074.jpg:
+ax: 341.1 min:
+
+
+--------------------
+Detected Text in frame1075.jpg:
+
+--------------------
+Detected Text in frame1076.jpg:
+
+--------------------
+Detected Text in frame1077.jpg:
+348
+
+
+--------------------
+Detected Text in frame1078.jpg:
+348
+
+
+--------------------
+Detected Text in frame1079.jpg:
+max: 348.4 min: 80.8
+aug: 142.6 cen: 344.6) 348,
+
+214.9)
+
+
+--------------------
+Detected Text in frame108.jpg:
+2023-09-04 15:35:51)
+
+172,
+
+
+--------------------
+Detected Text in frame1080.jpg:
+348
+
+
+--------------------
+Detected Text in frame1081.jpg:
+348
+
+
+--------------------
+Detected Text in frame1082.jpg:
+2023-09-04 1
+
+348
+
+
+--------------------
+Detected Text in frame1083.jpg:
+2023-09-04
+348
+
+
+--------------------
+Detected Text in frame1084.jpg:
+
+--------------------
+Detected Text in frame1085.jpg:
+ax? 348.4 min: 80. if 2023-09-04
+ug: 142.6 cen: “
+>Numd
+
+
+--------------------
+Detected Text in frame1086.jpg:
+ug: 142.6 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame1087.jpg:
+ax: 348.4 min: 80.8] 2023-09-04 15:36:39)
+
+ug: 142.6 cen: 344.6
+
+>Numt
+
+214.9)
+
+
+--------------------
+Detected Text in frame1088.jpg:
+ax? 348.4 min: 80.8
+ug: 142.6 cen: 344.6
+Nund
+
+=
+
+
+--------------------
+Detected Text in frame1089.jpg:
+ax: 348.4 min: 80.8
+ug: 142.6 cen: 344.6
+>Numt
+
+214.9)
+
+
+--------------------
+Detected Text in frame109.jpg:
+172.
+
+
+--------------------
+Detected Text in frame1090.jpg:
+ax? 348.4 min: 80.8
+ug: 142.6 cen: 344.6
+>Numt
+
+214.9)
+
+
+--------------------
+Detected Text in frame1091.jpg:
+1 348. BO. 2023-09-04
+ug: 142.6 cen: 344. : | 348.4
+Num
+
+
+--------------------
+Detected Text in frame1092.jpg:
+ax? 348.4 min: 80.8]
+ug: 142.6 cen: 344.6)
+Nund
+
+214.9)
+
+
+--------------------
+Detected Text in frame1093.jpg:
+ax: 346.4 min:
+ug: 142.6 cen:
+Nund
+
+
+--------------------
+Detected Text in frame1094.jpg:
+130]
+
+ug: 142.6 cen:
+Nund
+
+
+--------------------
+Detected Text in frame1095.jpg:
+2023-03-04
+
+ug: 142.6 cen:
+Nund
+
+
+--------------------
+Detected Text in frame1096.jpg:
+ug: 142.6 cen:
+Nund
+
+
+--------------------
+Detected Text in frame1097.jpg:
+ug: 142.6 cen:
+Nund
+
+
+--------------------
+Detected Text in frame1098.jpg:
+ax? 348.4 min: 80.
+ug: 142.6 cen: 344. 348.4
+Num,
+
+
+--------------------
+Detected Text in frame1099.jpg:
+348.4 min:
+142.6 cen:
+
+
+--------------------
+Detected Text in frame11.jpg:
+aug: 153.2 cen:
+>Numt
+
+2023-09-04 15:35%
+
+--------------------
+Detected Text in frame110.jpg:
+2023-09-
+
+Atm.Temp: 25
+
+
+--------------------
+Detected Text in frame1100.jpg:
+pug: 142.6 cen:
+
+
+--------------------
+Detected Text in frame1101.jpg:
+ax: 348.4 min:
+ug: 142.6 cen:
+
+}-09-04 15:36:31]
+
+
+--------------------
+Detected Text in frame1102.jpg:
+ax: 317.4 min: 89.3)
+pug: 169.4 cen: 316.4 : | 348.4
+
+
+--------------------
+Detected Text in frame1103.jpg:
+ax: 312.4 min:
+
+
+--------------------
+Detected Text in frame1104.jpg:
+
+--------------------
+Detected Text in frame1105.jpg:
+ax: 317.4 min:
+ug: 169.4 cen:
+>Num
+
+
+--------------------
+Detected Text in frame1106.jpg:
+: 312.4 min: 89. 2023-09-04 15:36%
+vg: 169.4 cen: 310. Ex
+>Numi
+
+
+--------------------
+Detected Text in frame1107.jpg:
+
+--------------------
+Detected Text in frame1108.jpg:
+
+--------------------
+Detected Text in frame1109.jpg:
+
+--------------------
+Detected Text in frame111.jpg:
+Atm.Temp: 25.00
+
+
+--------------------
+Detected Text in frame1110.jpg:
+
+--------------------
+Detected Text in frame1111.jpg:
+
+--------------------
+Detected Text in frame1112.jpg:
+
+--------------------
+Detected Text in frame1113.jpg:
+
+--------------------
+Detected Text in frame1114.jpg:
+
+--------------------
+Detected Text in frame1115.jpg:
+
+--------------------
+Detected Text in frame1116.jpg:
+ax: 317.4 min:
+wg? 169.4 cen:
+Nu,
+
+
+--------------------
+Detected Text in frame1117.jpg:
+
+--------------------
+Detected Text in frame1118.jpg:
+
+--------------------
+Detected Text in frame1119.jpg:
+x: 317.4 min? 89.3)
+: 169.4 cen: 310.4]
+
+220.1)
+
+
+--------------------
+Detected Text in frame112.jpg:
+Atm.Temp: 25.00. &
+
+--------------------
+Detected Text in frame1120.jpg:
+
+--------------------
+Detected Text in frame1121.jpg:
+
+--------------------
+Detected Text in frame1122.jpg:
+317.4 m 8 2023-03-04
+
+
+--------------------
+Detected Text in frame1123.jpg:
+
+--------------------
+Detected Text in frame1124.jpg:
+
+--------------------
+Detected Text in frame1125.jpg:
+
+--------------------
+Detected Text in frame1126.jpg:
+max: 318.6 min: 86.4]
+aug: 156.3 cen: 310.1)
+Num,
+
+
+--------------------
+Detected Text in frame1127.jpg:
+ax! 318.6 min:
+aug: 156.3 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame1128.jpg:
+
+--------------------
+Detected Text in frame1129.jpg:
+
+--------------------
+Detected Text in frame113.jpg:
+Atm.Temp: 25.00. &
+
+--------------------
+Detected Text in frame1130.jpg:
+
+--------------------
+Detected Text in frame1131.jpg:
+wy: 156.3 cen:
+umd
+
+
+--------------------
+Detected Text in frame1132.jpg:
+ax: 318.6 min
+wg: 156.3 cen:
+umd
+
+
+--------------------
+Detected Text in frame1133.jpg:
+ax: 318.6 min
+ug: 156.3 cen: 310. 318.
+Nun, ;
+
+
+--------------------
+Detected Text in frame1134.jpg:
+x: 318.6 min? 86.4)
+ug: 156.3 cen: 310.4 | 318.
+und,
+
+
+--------------------
+Detected Text in frame1135.jpg:
+
+--------------------
+Detected Text in frame1136.jpg:
+max: 318.6 min: 86.4)
+
+
+--------------------
+Detected Text in frame1137.jpg:
+2023-09-04 151365
+
+
+--------------------
+Detected Text in frame1138.jpg:
+
+--------------------
+Detected Text in frame1139.jpg:
+
+--------------------
+Detected Text in frame114.jpg:
+172.
+
+Atm.Temp: 25.00. &
+
+--------------------
+Detected Text in frame1140.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame1141.jpg:
+
+--------------------
+Detected Text in frame1142.jpg:
+
+--------------------
+Detected Text in frame1143.jpg:
+
+--------------------
+Detected Text in frame1144.jpg:
+
+--------------------
+Detected Text in frame1145.jpg:
+
+--------------------
+Detected Text in frame1146.jpg:
+
+--------------------
+Detected Text in frame1147.jpg:
+
+--------------------
+Detected Text in frame1148.jpg:
+
+--------------------
+Detected Text in frame1149.jpg:
+
+--------------------
+Detected Text in frame115.jpg:
+2023-09-04 15:35:51)
+
+Atm.Temp: 25.00 &
+
+--------------------
+Detected Text in frame1150.jpg:
+
+--------------------
+Detected Text in frame1151.jpg:
+
+--------------------
+Detected Text in frame1152.jpg:
+
+--------------------
+Detected Text in frame1153.jpg:
+
+--------------------
+Detected Text in frame1154.jpg:
+
+--------------------
+Detected Text in frame1155.jpg:
+
+--------------------
+Detected Text in frame1156.jpg:
+
+--------------------
+Detected Text in frame1157.jpg:
+
+--------------------
+Detected Text in frame1158.jpg:
+
+--------------------
+Detected Text in frame1159.jpg:
+
+--------------------
+Detected Text in frame116.jpg:
+
+--------------------
+Detected Text in frame1160.jpg:
+
+--------------------
+Detected Text in frame1161.jpg:
+31?
+
+
+--------------------
+Detected Text in frame1162.jpg:
+
+--------------------
+Detected Text in frame1163.jpg:
+
+--------------------
+Detected Text in frame1164.jpg:
+31?
+
+
+--------------------
+Detected Text in frame1165.jpg:
+ax: 317.8 min: 86. 2023-09-04 15:36:33}
+pug: 154.4 cen: 316.0 312,
+Num
+
+
+--------------------
+Detected Text in frame1166.jpg:
+31?
+
+
+--------------------
+Detected Text in frame1167.jpg:
+31?
+
+
+--------------------
+Detected Text in frame1168.jpg:
+vg: 154.4 cen: 316.0 a 312.
+fund E
+
+
+--------------------
+Detected Text in frame1169.jpg:
+ax: 317.8 min: 86.4
+ug: 154.4 cen: 316.0 : 317
+Nun,
+
+
+--------------------
+Detected Text in frame117.jpg:
+2023-09-04 15:35:51)
+
+Atm.Temp: 25.00 &
+
+--------------------
+Detected Text in frame1170.jpg:
+
+--------------------
+Detected Text in frame1171.jpg:
+31?
+
+
+--------------------
+Detected Text in frame1172.jpg:
+312
+
+
+--------------------
+Detected Text in frame1173.jpg:
+
+--------------------
+Detected Text in frame1174.jpg:
+
+--------------------
+Detected Text in frame1175.jpg:
+
+--------------------
+Detected Text in frame1176.jpg:
+ma)
+
+
+--------------------
+Detected Text in frame1177.jpg:
+
+--------------------
+Detected Text in frame1178.jpg:
+
+--------------------
+Detected Text in frame1179.jpg:
+5m > 2023-03-04
+
+
+--------------------
+Detected Text in frame118.jpg:
+2023-09-04 15:35:51)
+
+a
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in frame1180.jpg:
+339
+
+
+--------------------
+Detected Text in frame1181.jpg:
+
+--------------------
+Detected Text in frame1182.jpg:
+5 min 2023-09-04 15:36:34]
+339
+
+
+--------------------
+Detected Text in frame1183.jpg:
+
+--------------------
+Detected Text in frame1184.jpg:
+339,
+
+
+--------------------
+Detected Text in frame1185.jpg:
+2023-05-04
+
+339,
+
+
+--------------------
+Detected Text in frame1186.jpg:
+5 2023-09-04
+is 339
+
+
+--------------------
+Detected Text in frame1187.jpg:
+2023-09-04 15:36:34)
+
+339
+
+
+--------------------
+Detected Text in frame1188.jpg:
+339
+
+
+--------------------
+Detected Text in frame1189.jpg:
+339
+
+
+--------------------
+Detected Text in frame119.jpg:
+2023-03-04 15:35:51]
+
+a
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in frame1190.jpg:
+2023-09-04 15:36:34]
+
+339
+
+
+--------------------
+Detected Text in frame1191.jpg:
+max: 339.6 min: 85.’
+
+
+--------------------
+Detected Text in frame1192.jpg:
+max: 339.6 min: 85.’ P 2023-09-04 15:36:34
+avy: 149.1 cen: f
+>Nund
+
+
+--------------------
+Detected Text in frame1193.jpg:
+avg: 149.1 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame1194.jpg:
+
+--------------------
+Detected Text in frame1195.jpg:
+
+--------------------
+Detected Text in frame1196.jpg:
+
+--------------------
+Detected Text in frame1197.jpg:
+
+--------------------
+Detected Text in frame1198.jpg:
+
+--------------------
+Detected Text in frame1199.jpg:
+
+--------------------
+Detected Text in frame12.jpg:
+
+--------------------
+Detected Text in frame120.jpg:
+2023-09-04 15:35:51]
+
+a
+
+Atm.Temp: 2!
+
+--------------------
+Detected Text in frame1200.jpg:
+
+--------------------
+Detected Text in frame1201.jpg:
+
+--------------------
+Detected Text in frame1202.jpg:
+333.
+
+
+--------------------
+Detected Text in frame1203.jpg:
+©) 2023-09-04 15:36:35)
+
+
+--------------------
+Detected Text in frame1204.jpg:
+
+--------------------
+Detected Text in frame1205.jpg:
+
+--------------------
+Detected Text in frame1206.jpg:
+325
+
+i ne
+
+--------------------
+Detected Text in frame1207.jpg:
+325.
+
+
+--------------------
+Detected Text in frame1208.jpg:
+2023-09-04 15:36:35)
+
+325
+
+
+--------------------
+Detected Text in frame1209.jpg:
+325
+
+ax: 375.9 min: 66.8
+
+
+--------------------
+Detected Text in frame121.jpg:
+2023-09-04 15:35:51)
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in frame1210.jpg:
+325
+
+a
+
+--------------------
+Detected Text in frame1211.jpg:
+ax: 375.9 min: 66.8
+
+325
+
+
+--------------------
+Detected Text in frame1212.jpg:
+ax: 375.9 min: 80.
+pug: 136.9 cen: 368.4
+Num,
+
+
+--------------------
+Detected Text in frame1213.jpg:
+ax: 375.9 min: 86.8] :
+aug: 136.9 cen: 368.4
+Num t
+
+770.4)
+
+
+--------------------
+Detected Text in frame1214.jpg:
+ax: 375.9 min:
+aug: 136.9 cen:
+Nu,
+
+
+--------------------
+Detected Text in frame1215.jpg:
+ax: 375.9 min: 60.8 =
+pug: 136.9 cen: 368.4 a : oes
+Nu, :
+
+220.4)
+
+
+--------------------
+Detected Text in frame1216.jpg:
+hug: 136.9 cen: 368. [375.9
+
+Num
+
+
+--------------------
+Detected Text in frame1217.jpg:
+ax: 375.9 min: 60.8
+pug: 136.9 cen: 368.4
+Nun,
+
+220.4)
+
+
+--------------------
+Detected Text in frame1218.jpg:
+ax: 375.9 min:
+aug: 136.9 cen:
+Nu,
+
+
+--------------------
+Detected Text in frame1219.jpg:
+2023-09-04 15:36:35]
+
+pug: 136.9 cen:
+
+Num
+
+
+--------------------
+Detected Text in frame122.jpg:
+2023-09-04 15:35:51)
+
+Atm.Temp: 25.00 &
+
+--------------------
+Detected Text in frame1220.jpg:
+ax? 375.9 min:
+aug: 136.9 cen:
+Nu,
+
+
+--------------------
+Detected Text in frame1221.jpg:
+ax: 375.9 min: 80.8)
+pug: 136.9 cen: 368.4] g 375
+Nun
+
+
+--------------------
+Detected Text in frame1222.jpg:
+ax: 375.9 min: 80.8)
+aug: 136.9 cen: 368.4]
+Nun
+
+
+--------------------
+Detected Text in frame1223.jpg:
+
+--------------------
+Detected Text in frame1224.jpg:
+pug: 136.9 cen:
+Nun
+
+
+--------------------
+Detected Text in frame1225.jpg:
+ax: 375.9 min: 60.8
+pug: 136.9 cen: 368.4 4 325,
+Nu, 3
+
+
+--------------------
+Detected Text in frame1226.jpg:
+ax: 382.9 min: 78. 3
+aug: 133.7 cen: ze a 325.
+Nu, ;
+
+
+--------------------
+Detected Text in frame1227.jpg:
+ax: 382.9 min: 78.2 ,
+pug: 133.7 cen: 374.3 382,
+Nu, 4
+
+218.4)
+
+
+--------------------
+Detected Text in frame1228.jpg:
+aug: 133.7 cen:
+Num
+
+
+--------------------
+Detected Text in frame1229.jpg:
+ax? 382.9 min
+aug: 133.7 cen:
+Numi
+
+
+--------------------
+Detected Text in frame123.jpg:
+2023-03-04 15:35:51)
+
+Atm.Temp: 25.00 &
+
+--------------------
+Detected Text in frame1230.jpg:
+ax? 382.9 min
+aug: 133.7 cen:
+Num
+
+
+--------------------
+Detected Text in frame1231.jpg:
+ax? 382.9 min: 78. 3
+aug: 133.7 cen: 374. : 382
+Num
+
+
+--------------------
+Detected Text in frame1232.jpg:
+aug: 133.7 cen: 374. ey 382
+Num :
+
+
+--------------------
+Detected Text in frame1233.jpg:
+aug: 133.7 cen:
+Numd
+
+
+--------------------
+Detected Text in frame1234.jpg:
+ax? 382.9 min :
+aug: 133.7 cen: 374. a 382
+Nun,
+
+
+--------------------
+Detected Text in frame1235.jpg:
+ax? 382.9 min x
+aug: 133.7 cen: 374. 382
+Numd
+
+
+--------------------
+Detected Text in frame1236.jpg:
+ax? 382.9 min x
+aug: 133.? cen: 374. 3 382
+Numd
+
+
+--------------------
+Detected Text in frame1237.jpg:
+ax: 382.9 min: 78.
+aug: 133.? cen: : 382
+Hunt
+
+
+--------------------
+Detected Text in frame1238.jpg:
+ax? 382.9 min x i
+aug: 133.7 cen: 374. ‘ 382
+Numd
+
+
+--------------------
+Detected Text in frame1239.jpg:
+ax? 382.9 min :
+aug: 133.7 cen: 374. : zg 382
+>Numd
+
+
+--------------------
+Detected Text in frame124.jpg:
+2023-09-04 15:35:51)
+
+Atm.Temp: 25.00 &
+
+--------------------
+Detected Text in frame1240.jpg:
+382
+
+
+--------------------
+Detected Text in frame1241.jpg:
+pug: 133.7 cen:
+Nunt
+
+
+--------------------
+Detected Text in frame1242.jpg:
+aug: 133.7 cen: 374. : ; ou
+Nunt
+
+
+--------------------
+Detected Text in frame1243.jpg:
+38Z
+
+
+--------------------
+Detected Text in frame1244.jpg:
+38
+
+
+--------------------
+Detected Text in frame1245.jpg:
+ax: 382.9 min: 78.
+aug: 133.7 cen: 374. ae 382
+bNund
+
+
+--------------------
+Detected Text in frame1246.jpg:
+: © 2023-09-04 15:36:36
+pug: 133.7 cen: 374. eg 382
+Num, ‘
+
+
+--------------------
+Detected Text in frame1247.jpg:
+aug: 133.7 cen: 374. i 382
+Hunt :
+
+Eee
+
+--------------------
+Detected Text in frame1248.jpg:
+aug: 133.7 cen: 374. EW
+Nut
+
+Se
+
+--------------------
+Detected Text in frame1249.jpg:
+aug: 133.7 cen: 374. EW
+Nut -
+
+Se Se =
+
+--------------------
+Detected Text in frame125.jpg:
+2023-09-04 15:35:51)
+
+Atm.Temp: 25.00
+
+
+--------------------
+Detected Text in frame1250.jpg:
+382.9 min: 7B.
+pug: 133.7 cen: 374. 382.
+Nur
+
+
+--------------------
+Detected Text in frame1251.jpg:
+2382.9 min: 7B. _
+aug: 133.7 cen: 374.
+Nur
+
+
+--------------------
+Detected Text in frame1252.jpg:
+P3814 min: 76.
+yg: 132.5 cen: 372. i 382.
+
+
+--------------------
+Detected Text in frame1253.jpg:
+381
+
+
+--------------------
+Detected Text in frame1254.jpg:
+
+--------------------
+Detected Text in frame1255.jpg:
++ 381.1 min: 76.3] es z z;
+Wg: 132.5 cen: 372.6 :
+
+214.3)
+
+
+--------------------
+Detected Text in frame1256.jpg:
+381.
+
+
+--------------------
+Detected Text in frame1257.jpg:
+381
+
+
+--------------------
+Detected Text in frame1258.jpg:
+
+--------------------
+Detected Text in frame1259.jpg:
+381,
+
+A.
+
+--------------------
+Detected Text in frame126.jpg:
+2023-09-04 15:35:
+
+177,
+
+Atm.Temp: 25.00 &
+
+--------------------
+Detected Text in frame1260.jpg:
+381.4
+
+--------------------
+Detected Text in frame1261.jpg:
+
+--------------------
+Detected Text in frame1262.jpg:
+ug: 132.5 cen: 372. 2 3
+Num
+
+
+--------------------
+Detected Text in frame1263.jpg:
+381
+
+
+--------------------
+Detected Text in frame1264.jpg:
+max? 3B1.1 min: 76.3)
+ug: 132.5 cen: 372.6)
+
+214.3)
+
+
+--------------------
+Detected Text in frame1265.jpg:
+ax: 381.1 min:
+aug: 132.5 cen:
+
+
+--------------------
+Detected Text in frame1266.jpg:
+
+--------------------
+Detected Text in frame1267.jpg:
+
+--------------------
+Detected Text in frame1268.jpg:
+max: 381.1 min: 76.3]
+pug: 132.5 cen: 372.6
+
+214.3)
+
+
+--------------------
+Detected Text in frame1269.jpg:
+max: 381.1 min: 76.3]
+pug: 132.5 cen: 372.6) : : 381
+
+214.3)
+
+
+--------------------
+Detected Text in frame127.jpg:
+2023-09-04 15:35:52]
+ug: 105.6 cen:
+Num
+
+Atm.Temp: 25.00 &
+
+
+--------------------
+Detected Text in frame1270.jpg:
+max? 381.1 min: 76.3)
+hug: 132.5 cen: 372.6)
+
+214.3)
+
+381
+
+
+--------------------
+Detected Text in frame1271.jpg:
+2023-09-04 15:36:32]
+
+
+--------------------
+Detected Text in frame1272.jpg:
+
+--------------------
+Detected Text in frame1273.jpg:
+ax: 381.1 min: 76.3]
+pug: 132.5 cen: 372.6)
+
+2023-09-04 15:36:32]
+
+214.3}
+
+
+--------------------
+Detected Text in frame1274.jpg:
+
+--------------------
+Detected Text in frame1275.jpg:
+
+--------------------
+Detected Text in frame1276.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame1277.jpg:
+
+--------------------
+Detected Text in frame1278.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame1279.jpg:
+max? 321.5 min: 85.3)
+pug: 152.8 cen: 315.8)
+
+213.6)
+
+
+--------------------
+Detected Text in frame128.jpg:
+Atm.Temp: 25.00 &
+
+--------------------
+Detected Text in frame1280.jpg:
+2023-09-04 15:36:
+
+38]
+
+--------------------
+Detected Text in frame1281.jpg:
+‘CDist:0.70.
+
+
+--------------------
+Detected Text in frame1282.jpg:
+
+--------------------
+Detected Text in frame1283.jpg:
+
+--------------------
+Detected Text in frame1284.jpg:
+
+--------------------
+Detected Text in frame1285.jpg:
+EGE:
+
+Atm. Temp: 25.00
+
+
+--------------------
+Detected Text in frame1286.jpg:
+C.Dist:0.70 Atm. Temp.
+
+
+--------------------
+Detected Text in frame1287.jpg:
+
+--------------------
+Detected Text in frame1288.jpg:
+‘C.Dist:0.70- Atm. Temp:
+
+
+--------------------
+Detected Text in frame1289.jpg:
+2023-0:
+
+
+--------------------
+Detected Text in frame129.jpg:
+ug: 105.6 cen:
+Num
+
+
+--------------------
+Detected Text in frame1290.jpg:
+
+--------------------
+Detected Text in frame1291.jpg:
+
+--------------------
+Detected Text in frame1292.jpg:
+
+--------------------
+Detected Text in frame1293.jpg:
+
+--------------------
+Detected Text in frame1294.jpg:
+
+--------------------
+Detected Text in frame1295.jpg:
+
+--------------------
+Detected Text in frame1296.jpg:
+
+--------------------
+Detected Text in frame1297.jpg:
+
+--------------------
+Detected Text in frame1298.jpg:
+
+--------------------
+Detected Text in frame1299.jpg:
+
+--------------------
+Detected Text in frame13.jpg:
+
+--------------------
+Detected Text in frame130.jpg:
+ug: 105.6 cen:
+Num
+
+Atm.Temp: 2!
+
+2023-09-04 15:35:52]
+
+--------------------
+Detected Text in frame1300.jpg:
+}-09-04 15:36:36)
+
+
+--------------------
+Detected Text in frame1301.jpg:
+16:35}
+
+
+--------------------
+Detected Text in frame1302.jpg:
+
+--------------------
+Detected Text in frame1303.jpg:
+
+--------------------
+Detected Text in frame1304.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame1305.jpg:
+
+--------------------
+Detected Text in frame1306.jpg:
+
+--------------------
+Detected Text in frame1307.jpg:
+2023-09-04 15:36%
+
+
+--------------------
+Detected Text in frame1308.jpg:
+yl
+
+--------------------
+Detected Text in frame1309.jpg:
+299
+
+
+--------------------
+Detected Text in frame131.jpg:
+ax: 169.3 min: 72.2) 2023-09-04 15:35:52
+ug: 105.6 cen: 152.9)
+Num
+
+146.2
+
+Atm.Temp: 25.00 &
+
+
+--------------------
+Detected Text in frame1310.jpg:
+299.6 min: 85.9]
+
+299
+
+
+--------------------
+Detected Text in frame1311.jpg:
+max: 299.6 min: 85.
+pug: 153.6 cen: 285.6)
+
+
+--------------------
+Detected Text in frame1312.jpg:
+
+--------------------
+Detected Text in frame1313.jpg:
+
+--------------------
+Detected Text in frame1314.jpg:
+
+--------------------
+Detected Text in frame1315.jpg:
+
+--------------------
+Detected Text in frame1316.jpg:
+2023-09-04 15:36:39)
+
+
+--------------------
+Detected Text in frame1317.jpg:
+ax: 299.6 min: 85.9] 2023-09-04 15:36:
+
+
+--------------------
+Detected Text in frame1318.jpg:
+max: 299.6 min? 85.9}
+ug: 153.6 cen: 285.6
+Num,
+
+
+--------------------
+Detected Text in frame1319.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame132.jpg:
+2023-09-04 15:35:52
+
+ug: 105.6 cen: 152.9
+>Numt
+
+
+--------------------
+Detected Text in frame1320.jpg:
+
+--------------------
+Detected Text in frame1321.jpg:
+ax: 299.6 min: 85.9 2023-09-04
+pug: 153.6 cen: 285.6) 4
+Nun
+
+
+--------------------
+Detected Text in frame1322.jpg:
+max: 299.6 min: 85.9}
+ug: 153.6 cen: 285.6)
+Num
+
+
+--------------------
+Detected Text in frame1323.jpg:
+
+--------------------
+Detected Text in frame1324.jpg:
+
+--------------------
+Detected Text in frame1325.jpg:
+ax: 299.6 min:
+ug: 153.6 cen:
+
+2023-09-04 15:36:40)
+
+Num
+
+
+--------------------
+Detected Text in frame1326.jpg:
+max: 333.6 min: 87.6)
+ug: 161.3 cen: 325.3)
+Numd
+
+
+--------------------
+Detected Text in frame1327.jpg:
+ax: 333.6 min:
+ug: 161.3 cen:
+Num
+
+
+--------------------
+Detected Text in frame1328.jpg:
+ax: 333.6 min:
+ug: 161.3 cen:
+Num
+
+
+--------------------
+Detected Text in frame1329.jpg:
+ug: 161.3 cen:
+Num
+
+
+--------------------
+Detected Text in frame133.jpg:
+2023-09-04 15:35:52
+
+C. Dist :0.70
+
+
+--------------------
+Detected Text in frame1330.jpg:
+ax: 333.6 min: 87.8]
+ug: 161.3 cen: 325.3
+Nut, 3
+
+224.9)
+
+
+--------------------
+Detected Text in frame1331.jpg:
+ug: 161.3 cen: 325. | 333
+Nut
+
+
+--------------------
+Detected Text in frame1332.jpg:
+max: 333.6 min:
+ug: 161.3 cen:
+Numd
+
+
+--------------------
+Detected Text in frame1333.jpg:
+ax: 333.6 min: 87.6]
+ug: 161.3 cen: 325.3)
+Num
+
+
+--------------------
+Detected Text in frame1334.jpg:
+ax: 333.6 min: 87.6]
+ug: 161.3 cen: 325.3)
+Num
+
+224.0)
+
+
+--------------------
+Detected Text in frame1335.jpg:
+ax: 333.6 min: 87.6]
+ug: 161.3 cen: 325.3)
+Num
+
+
+--------------------
+Detected Text in frame1336.jpg:
+
+--------------------
+Detected Text in frame1337.jpg:
+
+--------------------
+Detected Text in frame1338.jpg:
+
+--------------------
+Detected Text in frame1339.jpg:
+C Dist :0.70
+
+
+--------------------
+Detected Text in frame134.jpg:
+2023-09-04 15:35:52
+
+C. Dist :0.76
+
+__ ftm.Temp: 25.00 § :1. a Es
+
+--------------------
+Detected Text in frame1340.jpg:
+2023-09-04 15:36:40)
+
+
+--------------------
+Detected Text in frame1341.jpg:
+2023-09-04 15:36:40
+
+
+--------------------
+Detected Text in frame1342.jpg:
+
+--------------------
+Detected Text in frame1343.jpg:
+2023-09-04 15:36:40}
+
+
+--------------------
+Detected Text in frame1344.jpg:
+2023-09-04 15:36:40}
+
+
+--------------------
+Detected Text in frame1345.jpg:
+max: 333.6 min: 87.6) 023-05-04 15:36:49)
+ug: 161.3 cen: 325.3] E
+
+
+--------------------
+Detected Text in frame1346.jpg:
+ax: 339.6 min: 87.8)
+ug: 161.3 cen: 325.3)
+
+224.0)
+
+
+--------------------
+Detected Text in frame1347.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame1348.jpg:
+
+--------------------
+Detected Text in frame1349.jpg:
+ax: 333.6 min: 67.8)
+ug: 161.3 cen: 325.2
+Numd
+
+OQ, EEE
+
+
+--------------------
+Detected Text in frame135.jpg:
+2023-09-04 15:35:52
+ug: 105.6 cen:
+Num
+
+Atm.Temp: 2!
+
+
+--------------------
+Detected Text in frame1350.jpg:
+
+--------------------
+Detected Text in frame1351.jpg:
+jax: 333.6 min:
+pug: 161.3 cen:
+Num,
+
+
+--------------------
+Detected Text in frame1352.jpg:
+ax: 343.3 min: 83.6)
+ug: 147.0 cen: 327.5)
+Num,
+
+214.1)
+
+
+--------------------
+Detected Text in frame1353.jpg:
+max: 343.3 min: 83.6)
+ug: 147.0 cen: 327.5
+Num
+
+TC Dist:0. 70 1.09) mz
+
+
+--------------------
+Detected Text in frame1354.jpg:
+max: 343.3 min: 83.6)
+ug: 147.0 cen: 327.5
+Num
+
+
+--------------------
+Detected Text in frame1355.jpg:
+2023-03-04
+
+
+--------------------
+Detected Text in frame1356.jpg:
+wax? 343.3 min:
+
+2023-09-04 15:36;41]
+
+
+--------------------
+Detected Text in frame1357.jpg:
+max: 343.3 min:
+ug: 147.0 cen:
+Num
+
+
+--------------------
+Detected Text in frame1358.jpg:
+max: 343.3 min: 83.6)
+ug: 147.0 cen: 327.5
+>Numt
+
+214.1)
+
+
+--------------------
+Detected Text in frame1359.jpg:
+max: 343.3 min: 83.6)
+ug? 147.0 cen: 327.5
+Num
+
+214.1)
+
+
+--------------------
+Detected Text in frame136.jpg:
+ax: 169.3 min: 72.2] 4 2023-09-04 15:35:52]
+ug: 105.6 cen: 152.9}
+umd
+
+146.2
+
+
+--------------------
+Detected Text in frame137.jpg:
+ax? 169.3 min: 72.2 -09-04 15:35:52)
+ug: 105.6 cen: 152.9
+Num
+
+146.2]
+
+
+--------------------
+Detected Text in frame138.jpg:
+ax: 169.3 min: 72.7)
+ug: 105.6 cen: 152.9)
+pnw
+
+146.2]
+
+
+--------------------
+Detected Text in frame139.jpg:
+ax? 169.3 min:
+ug: 105.6 cen: 152.9
+Hunt
+
+
+--------------------
+Detected Text in frame14.jpg:
+2023-09-04 15:35%47]
+
+
+--------------------
+Detected Text in frame140.jpg:
+2023-03-04 15:35:52
+
+Atm.Temp: 25.00 &
+
+--------------------
+Detected Text in frame141.jpg:
+ug: 105.6 cen: 152.9
+Hund
+
+146.2
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in frame142.jpg:
+ug: 105.6 cen: 152.9
+umd
+
+
+--------------------
+Detected Text in frame143.jpg:
+ug: 105.6 cen: 152.9.
+umd
+
+146.2
+
+
+--------------------
+Detected Text in frame144.jpg:
+2023-09-04 15:35:52
+
+aug: 105.6 cen: 152.9
+>Nund,
+
+
+--------------------
+Detected Text in frame145.jpg:
+2023-09-04 15:35:52
+
+
+--------------------
+Detected Text in frame146.jpg:
+max: 169.3 min 2023-09-04 15:35:52
+aug: 105.6 cen: 152.9)
+>Numt
+
+
+--------------------
+Detected Text in frame147.jpg:
+2023-09-04 15:35:52
+
+
+--------------------
+Detected Text in frame148.jpg:
+vax: 169.3 min:
+e ae 2023-09-04 15:35:52
+
+C
+
+
+--------------------
+Detected Text in frame149.jpg:
+2023-09-04 15:35:52
+
+
+--------------------
+Detected Text in frame15.jpg:
+
+--------------------
+Detected Text in frame150.jpg:
+Be 169.3 min: 22.2 2023-09-04 15:35:52
+ug: 105.6 cen: 152.9
+
+>Nunt
+
+P: 146.2
+
+f
+
+
+--------------------
+Detected Text in frame151.jpg:
+2023-09-04 15:35:52
+
+
+--------------------
+Detected Text in frame152.jpg:
+2023-09-04 15:35:53
+
+im.
+
+
+--------------------
+Detected Text in frame153.jpg:
+2190.9 min: 85. 2023-09-04 15:35:53
+aug: 161.6 cen:
+Nun.
+
+Atm. Temp: 25.00
+
+
+--------------------
+Detected Text in frame154.jpg:
+max: 190.9 min: 85.3]
+pug: 161.6 cen: 174.4
+
+2023-09-04 15:35:53
+
+phumt
+
+172.5
+
+C.Dist:0.70 Atm.Temp: 25.00
+
+--------------------
+Detected Text in frame155.jpg:
+max: 190.9 min: 85.3]
+pug: 161.6 cen: 174.4
+DNumd
+
+172.5
+
+‘C Dist :0.70 Atm.Temp: 25.00 § :1.00
+
+
+--------------------
+Detected Text in frame156.jpg:
+199.9 min: 85.3 15:53)
+gj: 161.6 cen: 174.4
+md.
+
+172.5
+
+‘C Dist :0.70 Atm. Temp: 25.00 € :1.00
+
+
+--------------------
+Detected Text in frame157.jpg:
+99-04 15:3
+
+Buy: 161.6 cen:
+fund
+
+
+--------------------
+Detected Text in frame158.jpg:
+2023-09-04 15:35:53
+
+aug: 161.6 cen:
+Numi,
+
+
+--------------------
+Detected Text in frame159.jpg:
+09-04 15:35:53)
+
+ug: 161.6 cen:
+Num,
+
+
+--------------------
+Detected Text in frame16.jpg:
+2023-09-04 15:35247]
+
+&
+
+--------------------
+Detected Text in frame160.jpg:
+ug: 161.6 cen: 174.4
+Num
+
+172.5
+
+rc Dist :0.70 Atm.Temp: 25.00 € 11.09)
+
+--------------------
+Detected Text in frame161.jpg:
+99-04 15:35:53
+
+aug: 161.6 cen: 1
+>Numt
+
+‘Dist :0.70 Atm.Tenp: 25.
+
+
+--------------------
+Detected Text in frame162.jpg:
+C Dist:0.70 ~ Atm. Temp: 25.1
+
+--------------------
+Detected Text in frame163.jpg:
+max: 190.9 min: 85.3 2028-09-04 15:35:53
+aug: 161.6 cen: 174.4
+>Nund,
+
+3s 127.5
+
+Atn.Temp: 25.00 € :f.
+
+
+--------------------
+Detected Text in frame164.jpg:
+max: 190.9 min: 85.3 2022-09-04 15:35:53
+
+aug: 161.6 cen: 174.4 uv
+>Num
+ry 177.5
+
+CDist:0.70 Atm.Temp: 25.00 & :1.00)
+
+--------------------
+Detected Text in frame165.jpg:
+85.3
+aug: 161.6 cen: 174.4
+>Num
+
+By 177.5
+
+2022-09-04 15:35:53
+
+
+--------------------
+Detected Text in frame166.jpg:
+max: 190.9 min: 85.3
+aug: 161.6 cen: 174.4
+Nun
+
+a 172.5
+
+2023-09-04 15:35:53
+
+‘C Dist :0.70 ftm.Temp: 25.00 § :1.00)
+—
+
+--------------------
+Detected Text in frame167.jpg:
+max: 190.9 min: 85
+
+— 2023-09-04 15:35:53)
+aug: 161.6 cen: 174.4]
+>Nund
+P:
+
+177.5
+
+rns Ze Atm.Temp: 25.00 § :1,09}
+
+--------------------
+Detected Text in frame168.jpg:
+aug: 161.6 cen:
+>Numt
+P:
+
+fim.Tenp: 25.00 3
+
+
+--------------------
+Detected Text in frame169.jpg:
+max: 190.9 min: 85.
+wg: 161.6 cen: 174.4
+Hunt
+
+477.
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in frame17.jpg:
+2023-09-04 15
+
+i}
+
+--------------------
+Detected Text in frame170.jpg:
+ax: 190.9 min: 85.
+wg: 161.6 cen: 174.4
+Nun,
+
+Atm.Temp: 2!
+
+
+--------------------
+Detected Text in frame171.jpg:
+
+--------------------
+Detected Text in frame172.jpg:
+3-04 15:35:53)
+
+‘C.Dist:0.70 Atm.Tenp: 25.00 € 31.00
+
+
+--------------------
+Detected Text in frame173.jpg:
+
+--------------------
+Detected Text in frame174.jpg:
+
+--------------------
+Detected Text in frame175.jpg:
+2023-09-04 15:35:53]
+
+
+--------------------
+Detected Text in frame176.jpg:
+
+--------------------
+Detected Text in frame177.jpg:
+
+--------------------
+Detected Text in frame178.jpg:
+2023-09-04 15:35354]
+
+
+--------------------
+Detected Text in frame179.jpg:
+2023-09-04 15:35%
+
+
+--------------------
+Detected Text in frame18.jpg:
+| 313
+
+--------------------
+Detected Text in frame180.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame181.jpg:
+2023-09-04 15:35:
+
+
+--------------------
+Detected Text in frame182.jpg:
+x: 179.3 min: 82. 2023-09-04 15:35:54)
+ug: 154.5 cen: 175.0
+Num,
+
+153.
+
+C. Dist :0. 70%
+
+--------------------
+Detected Text in frame183.jpg:
+x: 179.3 min 82.5] 2023-09-04 15:35:545
+
+‘Dist :0. 70"
+
+--------------------
+Detected Text in frame184.jpg:
+ax: 179.3 min: 82. 2023-09-04
+ug: 154.5 cen: 175.0
+Nun
+
+C Dist :0.70—
+
+
+--------------------
+Detected Text in frame185.jpg:
+2023-09-04 15:35:54)
+
+
+--------------------
+Detected Text in frame186.jpg:
+
+--------------------
+Detected Text in frame187.jpg:
+2023-09-04 15:35:54]
+
+
+--------------------
+Detected Text in frame188.jpg:
+2023-09-04 15:35:54)
+
+
+--------------------
+Detected Text in frame189.jpg:
+2023-09-04 15:35:54
+
+
+--------------------
+Detected Text in frame19.jpg:
+
+--------------------
+Detected Text in frame190.jpg:
+
+--------------------
+Detected Text in frame191.jpg:
+
+--------------------
+Detected Text in frame192.jpg:
+
+--------------------
+Detected Text in frame193.jpg:
+
+--------------------
+Detected Text in frame194.jpg:
+
+--------------------
+Detected Text in frame195.jpg:
+x: 179.3 min: 87.5)
+aug: 154.5 cen: 175.9
+umd
+
+153.2
+
+
+--------------------
+Detected Text in frame196.jpg:
+ax: 179.3 min:
+aug: 154.5 cen:
+
+
+--------------------
+Detected Text in frame197.jpg:
+2023-09-04 15:35:54]
+
+
+--------------------
+Detected Text in frame198.jpg:
+82.
+ug: 154.5 cen: 125.0)
+>Numd
+
+153.2
+
+
+--------------------
+Detected Text in frame199.jpg:
+x: 179.3 min: 8?! % 2023-09-04 15:35:54
+aug: 154.5 cen:
+>Num1
+
+Atm. Temp: 2:
+
+
+--------------------
+Detected Text in frame2.jpg:
+
+--------------------
+Detected Text in frame20.jpg:
+
+--------------------
+Detected Text in frame200.jpg:
+ax: 179.3 min: 87.5]
+ug: 154.5 cen: 175.0)
+>Num.
+
+153.2]
+
+
+--------------------
+Detected Text in frame201.jpg:
+ax: 179.3 min: 87.5] 2023-09-04 15:35:55)
+ug: 154.5 cen: 175.0)
+>Numd
+
+153.2
+
+
+--------------------
+Detected Text in frame202.jpg:
+2023-09-04 15:35:55)
+
+ug: 140.6 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame203.jpg:
+ax: 211.0 min: 82.9]
+ug: 140.6 cen: 200.9)
+>Numt
+
+
+--------------------
+Detected Text in frame204.jpg:
+ax: 211.0 min:
+ug: 140.6 cen:
+>Numt
+
+2023-09-04 15:
+
+ii)
+
+
+--------------------
+Detected Text in frame205.jpg:
+ug: 140.6 cen:
+>Numi
+
+
+--------------------
+Detected Text in frame206.jpg:
+ug: 140.6 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame207.jpg:
+ug: 140.6 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame208.jpg:
+2023-09-04 15:
+
+
+--------------------
+Detected Text in frame209.jpg:
+max: 211.0 min: 82.9]
+
+Atm. Temp: 25.00
+
+--------------------
+Detected Text in frame21.jpg:
+
+--------------------
+Detected Text in frame210.jpg:
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in frame211.jpg:
+
+--------------------
+Detected Text in frame212.jpg:
+Atm. Temp: 25.00
+
+
+--------------------
+Detected Text in frame213.jpg:
+Atm. Temp: 2! ZF
+
+--------------------
+Detected Text in frame214.jpg:
+n 2023-09-04 15:35:55)
+
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in frame215.jpg:
+2023-09-04 15:35:55)
+
+
+--------------------
+Detected Text in frame216.jpg:
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in frame217.jpg:
+Atm. Temp: 2!
+
+
+--------------------
+Detected Text in frame218.jpg:
+
+--------------------
+Detected Text in frame219.jpg:
+ax: 211.0 min: 82.9
+ug: 140.6 cen: 200.9)
+>Numd
+
+124.3)
+
+
+--------------------
+Detected Text in frame22.jpg:
+
+--------------------
+Detected Text in frame220.jpg:
+ax: 211.0 min: 82.9]
+ug: 140.6 cen: 200.9)
+>Numd
+P:
+
+124.3)
+
+
+--------------------
+Detected Text in frame221.jpg:
+ax: 211.0 min: 82.9 2023-09-04 15:35:55)
+or inasl eters 3 :
+
+124.3)
+
+Atm. Temp: 25.00
+net
+
+--------------------
+Detected Text in frame222.jpg:
+ax: 211.0 min: 82.9]
+ug: 140.6 cen: 200.9)
+>Numd
+
+124.3)
+
+
+--------------------
+Detected Text in frame223.jpg:
+
+--------------------
+Detected Text in frame224.jpg:
+ax: 211.0 min: 82.9
+
+
+--------------------
+Detected Text in frame225.jpg:
+ax: 211.0 min: 82.9) : 2023-09-04
+ug: 140.6 cen: 200.9 a | 21%
+>Nund, .
+
+124.3)
+
+
+--------------------
+Detected Text in frame226.jpg:
+ax: 211.0 min: 82.9] 2023-09-04 15:35:55)
+ug: 140.6 cen: 200.9)
+
+124.3)
+
+
+--------------------
+Detected Text in frame227.jpg:
+ax: 211.0 min: 82.9
+ug: 140.6 cen: 200.9)
+
+
+--------------------
+Detected Text in frame228.jpg:
+ax: 250.8 min: 80.4] ‘. 2023-09-41
+ug: 12?.? cen: 223.9
+Sunt
+
+104.9)
+
+C Dist :0.70
+
+
+--------------------
+Detected Text in frame229.jpg:
+jax: 250.8 min:
+ug: 127.7 cen:
+umd
+
+
+--------------------
+Detected Text in frame23.jpg:
+
+--------------------
+Detected Text in frame230.jpg:
+ax: 250.8 min: 80.4]
+ug: 127.7 cen: 223.0)
+umd
+
+104.9)
+
+
+--------------------
+Detected Text in frame231.jpg:
+ax: 250.8 min: 80. 2023-09-04 15:35
+ug: 127.7 cen: 5
+Num
+
+
+--------------------
+Detected Text in frame232.jpg:
+
+--------------------
+Detected Text in frame233.jpg:
+jax: 250.8 min:
+ug: 127.7 cen:
+Numd
+
+
+--------------------
+Detected Text in frame234.jpg:
+ax: 250.8 min: 80.4] 2023-09-04
+ug: 127.7 cen: 223.0)
+
+104.
+
+
+--------------------
+Detected Text in frame235.jpg:
+ax: 250.8 min: 80.4]
+ug: 127.7 cen: 223.0) 3 250,
+umd q
+
+
+--------------------
+Detected Text in frame236.jpg:
+ax: 250.8 min:
+ug: 12?.? cen:
+Nun
+
+
+--------------------
+Detected Text in frame237.jpg:
+ax: 250.8 min: 80.4]
+ug: 127.7 cen: 223.9) 3 250.8
+
+194.9
+
+
+--------------------
+Detected Text in frame238.jpg:
+jax: 250.8 min: 80. 2023-09-04
+ug: 127.7 cen:
+Numd
+
+--------------------
+Detected Text in frame239.jpg:
+4
+
+
+--------------------
+Detected Text in frame24.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame240.jpg:
+ax: 250.8 min: 80.4]
+ug: 127.7 cen: 223.0)
+Numd
+
+104.9)
+
+
+--------------------
+Detected Text in frame241.jpg:
+ax: 250.8 min: 80.4]
+ug: 127.7 cen: 223.0)
+Numd
+
+194.9
+
+
+--------------------
+Detected Text in frame242.jpg:
+ax: 250.8 min: 80.4]
+ug: 122.7 cen: 223.9) 250)
+Hunt
+
+194.9
+
+
+--------------------
+Detected Text in frame243.jpg:
+ax: 250.8 min: 80.4]
+ug: 127.7 cen: 223.0)
+>Numd
+
+194.9
+
+
+--------------------
+Detected Text in frame244.jpg:
+ax: 250.8 min: 80. 7 2023-09-04 15:45%
+ug: 12?.? cen: 223. : 3 1 250.8
+
+
+--------------------
+Detected Text in frame245.jpg:
+ax: 250.8 min: 80.4]
+ug: 127.7 cen: 223.0)
+Numd
+
+194.9
+
+
+--------------------
+Detected Text in frame246.jpg:
+ax: 250.8 min: 80.4]
+ug: 127.7 cen: 223.0) 250
+umd
+
+104.9)
+
+
+--------------------
+Detected Text in frame247.jpg:
+ax: 250.8 min: 80.4]
+ug: 127.7 cen: 223.0) 250
+Numd
+
+104.9)
+
+
+--------------------
+Detected Text in frame248.jpg:
+ax: 250.8 min: 80.4] ki
+ug: 127.7 cen: 223.0) : 250
+
+104.9)
+
+
+--------------------
+Detected Text in frame249.jpg:
+ax: 250.8 min: 80. i
+ug: 12?.7 cen: 223. : x 250
+fund
+
+
+--------------------
+Detected Text in frame25.jpg:
+3.2 cer
+
+313
+183
+
+
+--------------------
+Detected Text in frame250.jpg:
+ax: 250.8 min:
+ug: 127.7 cen:
+fund
+
+
+--------------------
+Detected Text in frame251.jpg:
+ax: 250.8 min: 80.4]
+ug: 127.7 cen: 223.0)
+>Numd
+
+104.9
+
+
+--------------------
+Detected Text in frame252.jpg:
+ax: 250.6 min: 77.5]
+ug: 142.6 cen: 225.3)
+>Numt
+
+
+--------------------
+Detected Text in frame253.jpg:
+
+--------------------
+Detected Text in frame254.jpg:
+
+--------------------
+Detected Text in frame255.jpg:
+
+--------------------
+Detected Text in frame256.jpg:
+ug: 142.6 cen: 225.3) h 250
+Hunt
+
+
+--------------------
+Detected Text in frame257.jpg:
+ug: 142.6 cen: 225.3) 250
+nt
+
+
+--------------------
+Detected Text in frame258.jpg:
+z 2023-09-04 15:35:57
+ug: 112.6 cen: 225.3} Z 250
+Num
+
+
+--------------------
+Detected Text in frame259.jpg:
+2023-09-04 15:35:57]
+a i 250
+
+
+--------------------
+Detected Text in frame26.jpg:
+
+--------------------
+Detected Text in frame260.jpg:
+E 2023-09-04 15:35:57]
+ug: 112.6 cen: 225.3) 250
+umd
+
+
+--------------------
+Detected Text in frame261.jpg:
+ug: 112.6 cen: 225. ; 250.6
+Num q
+
+
+--------------------
+Detected Text in frame262.jpg:
+ax: 250.6 min: 72.5)
+ug: 112.6 cen: 225.3
+Mund
+
+
+--------------------
+Detected Text in frame263.jpg:
+ax: 250.6 min: 77.5]
+
+ug: 112.6 cen: 225.3)
+und
+
+99.8)
+
+
+--------------------
+Detected Text in frame264.jpg:
+ax: 250.6 min: 77.5]
+ug: 112.6 cen: 225.3)
+und
+
+99.8)
+
+
+--------------------
+Detected Text in frame265.jpg:
+ax: 250.6 min: 77.5] k ,
+ug: 112.6 cen: 225.3) a 250
+Mund
+
+
+--------------------
+Detected Text in frame266.jpg:
+ax: 250.6 min: 77.5)
+ug: 112.6 cen: 225.3)
+und
+
+99.8)
+
+
+--------------------
+Detected Text in frame267.jpg:
+ax: 250.6 min: 77.5] ;
+ug: 112.6 cen: 225.3) 250
+Mund E
+
+
+--------------------
+Detected Text in frame268.jpg:
+ug: 112.6 cen: 225. 250
+und
+
+
+--------------------
+Detected Text in frame269.jpg:
+ug: 112.6 cen: 225.3) 250
+unt
+
+
+--------------------
+Detected Text in frame27.jpg:
+
+--------------------
+Detected Text in frame270.jpg:
+vg: 112.6 cen: 225.3) f 250
+Num E
+
+
+--------------------
+Detected Text in frame271.jpg:
+4 15:35:57]
+
+ug: 112.6 cen: 225.3
+Hunt
+
+99.8)
+
+
+--------------------
+Detected Text in frame272.jpg:
+4 15:35:57]
+
+
+--------------------
+Detected Text in frame273.jpg:
+aug: 112.6 cen: 225.3)
+
+
+--------------------
+Detected Text in frame274.jpg:
+aug: 112.6 cen: 225.3)
+
+
+--------------------
+Detected Text in frame275.jpg:
+
+--------------------
+Detected Text in frame276.jpg:
+15:35:52]
+
+aug: 112.6 cen:
+
+
+--------------------
+Detected Text in frame277.jpg:
+aug: 112.6 cen:
+
+
+--------------------
+Detected Text in frame278.jpg:
+04 15:35:58]
+
+
+--------------------
+Detected Text in frame279.jpg:
+
+--------------------
+Detected Text in frame28.jpg:
+
+--------------------
+Detected Text in frame280.jpg:
+
+--------------------
+Detected Text in frame281.jpg:
+04 15:35:58)
+
+
+--------------------
+Detected Text in frame282.jpg:
+04 15:35:58)
+
+
+--------------------
+Detected Text in frame283.jpg:
+99-04 15:35:58
+
+
+--------------------
+Detected Text in frame284.jpg:
+19-04 15:35:58]
+
+
+--------------------
+Detected Text in frame285.jpg:
+19-04 15:35:58]
+
+
+--------------------
+Detected Text in frame286.jpg:
+04 15:35:58]
+
+
+--------------------
+Detected Text in frame287.jpg:
+04 15:35:58]
+
+
+--------------------
+Detected Text in frame288.jpg:
+
+--------------------
+Detected Text in frame289.jpg:
+2023-09-04 15:35:58)
+
+
+--------------------
+Detected Text in frame29.jpg:
+2023-09-04 15:
+
+
+--------------------
+Detected Text in frame290.jpg:
+2023-09-04 15:35:58)
+
+
+--------------------
+Detected Text in frame291.jpg:
+2023-09-04 15:35:58)
+
+
+--------------------
+Detected Text in frame292.jpg:
+2023-09-04 15:35:58)
+
+
+--------------------
+Detected Text in frame293.jpg:
+2023-09-04 15:35:
+
+
+--------------------
+Detected Text in frame294.jpg:
+2023-09-04 15:35:58)
+
+
+--------------------
+Detected Text in frame295.jpg:
+2023-09-04 15:35:58)
+
+
+--------------------
+Detected Text in frame296.jpg:
+2023-09-04 15:35:58)
+
+
+--------------------
+Detected Text in frame297.jpg:
+2023-09-04 15:35:58)
+
+
+--------------------
+Detected Text in frame298.jpg:
+2023-09-04 15:35:58)
+
+
+--------------------
+Detected Text in frame299.jpg:
+2023-09-04 15:35:58)
+
+176
+
+
+--------------------
+Detected Text in frame3.jpg:
+aug: 153.2 cen:
+Nun,
+
+
+--------------------
+Detected Text in frame30.jpg:
+
+--------------------
+Detected Text in frame300.jpg:
+2023-09-04 15:35:59
+
+
+--------------------
+Detected Text in frame301.jpg:
+2023-09-04 15:35:59
+
+
+--------------------
+Detected Text in frame302.jpg:
+2023-09-04 15:35:
+
+167,
+
+
+--------------------
+Detected Text in frame303.jpg:
+2023-09-04 15
+
+162,
+
+
+--------------------
+Detected Text in frame304.jpg:
+2023-09-04 15:35:59
+
+167,
+
+
+--------------------
+Detected Text in frame305.jpg:
+162,
+
+
+--------------------
+Detected Text in frame306.jpg:
+162,
+
+
+--------------------
+Detected Text in frame307.jpg:
+167,
+
+
+--------------------
+Detected Text in frame308.jpg:
+167.2 min
+
+88.6 cen: 147.
+
+
+--------------------
+Detected Text in frame309.jpg:
+ax
+ug
+umd
+
+167.2 min:
+88.6 cen:
+
+147.5)
+
+167,
+
+
+--------------------
+Detected Text in frame31.jpg:
+
+--------------------
+Detected Text in frame310.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame311.jpg:
+2023-09-04 15:35:59)
+
+162,
+
+
+--------------------
+Detected Text in frame312.jpg:
+2023-09-04 15:35:59
+
+162,
+
+
+--------------------
+Detected Text in frame313.jpg:
+ax: 167.2 min: 69.7]
+ug: 88.6 cen: 147.5)
+
+162,
+
+umd
+
+Atm. Temp
+
+--------------------
+Detected Text in frame314.jpg:
+ax: 167.2 min: 69.7]
+ug: 88.6 cen: 147.5
+Num,
+
+162,
+
+
+--------------------
+Detected Text in frame315.jpg:
+2023-09-04 15:35:59
+
+
+--------------------
+Detected Text in frame316.jpg:
+2023-09-04 15:35:59
+
+
+--------------------
+Detected Text in frame317.jpg:
+2023-09-04 15:35:59
+
+
+--------------------
+Detected Text in frame318.jpg:
+2023-09-04 15:35:59
+
+‘C Dist :0.70 Temp: 2! am ge ME
+
+
+--------------------
+Detected Text in frame319.jpg:
+2023-09-04 15:35:59
+
+
+--------------------
+Detected Text in frame32.jpg:
+99-04 15:35
+
+
+--------------------
+Detected Text in frame320.jpg:
+ax: 167.2 min: 69.7] 2023-09-04 15:35:59
+ug: 88.6 cen: 147.5)
+umd
+
+72.
+
+‘C, Dist :0.70
+
+
+--------------------
+Detected Text in frame321.jpg:
+ax: 167.2 min: 69.7] 2023-09-04 15:35:59
+ug: 88.6 cen: 147.5
+Num
+
+
+--------------------
+Detected Text in frame322.jpg:
+ax: 167.2 min: 69.7) 2023-09-04 15:35:59
+ug: 88.6 cen: 147.5
+umd
+
+
+--------------------
+Detected Text in frame323.jpg:
++ 167.2 min: 69.2 2023-09-04 15:35:59
+88.6 cen: 147.5] & 167,
+
+
+--------------------
+Detected Text in frame324.jpg:
+2023-09-04 15:35:59
+
+
+--------------------
+Detected Text in frame325.jpg:
+2023-09-04 15:35:59
+
+
+--------------------
+Detected Text in frame326.jpg:
+167.2 min: 69.2 4 15:36:00
+88.6 cen: 147.5)
+
+
+--------------------
+Detected Text in frame327.jpg:
+192.5 min: 77. 2023-09-04 15:36:00)
+wg: 119.0 cen: 175.8
+>Nund,
+
+
+--------------------
+Detected Text in frame328.jpg:
+2023-09-04 15:36:00)
+
+ug: 119.0 cen: 175.8
+>Numd
+
+
+--------------------
+Detected Text in frame329.jpg:
+2023-03-04 15:36:00)
+
+ug: 119.0 cen: 175.8
+>Nund
+
+
+--------------------
+Detected Text in frame33.jpg:
+
+--------------------
+Detected Text in frame330.jpg:
+2023-09-04 15:36:00)
+
+ug: 119.0 cen: 175.8
+Numd
+
+
+--------------------
+Detected Text in frame331.jpg:
+2023-09-04 15:36:00)
+
+vg: 119.0 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame332.jpg:
+2023-09-04 15:36:00)
+
+ug: 119.0 cen: 175.8
+>Numd
+
+
+--------------------
+Detected Text in frame333.jpg:
+2023-09-04 15:36:00)
+
+ug: 119.0 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame334.jpg:
+2023-03-04 15:36:00)
+
+ug: 119.0 cen: 175.8
+Mund
+
+
+--------------------
+Detected Text in frame335.jpg:
+2023-09-04 15:36:00)
+
+ug: 119.0 cen:
+Numd
+
+
+--------------------
+Detected Text in frame336.jpg:
+2023-09-04 15:36:00
+
+ug: 119.0 cen: 175.8)
+Mund
+
+Atn.Temp: 25.00. &
+
+--------------------
+Detected Text in frame337.jpg:
+2023-09-04 15:36:00
+
+ug: 119.0 cen:
+Numd
+
+
+--------------------
+Detected Text in frame338.jpg:
+2023-09-04 15:36:00
+
+ug: 119.0 cen:
+Numd
+
+
+--------------------
+Detected Text in frame339.jpg:
+2023-09-04 15:36:00
+
+ug: 119.0 cen:
+Numd
+
+
+--------------------
+Detected Text in frame34.jpg:
+2023-09-04 15:35:48)
+
+
+--------------------
+Detected Text in frame340.jpg:
+ax: 192.5 min:
+ug: 119.0 cen:
+Numd
+
+
+--------------------
+Detected Text in frame341.jpg:
+2023-09-04 15
+
+ug: 119.0 cen:
+Numd
+
+
+--------------------
+Detected Text in frame342.jpg:
+2023-03-04 15:36:00
+
+ug: 119.0 cen:
+Numd
+
+
+--------------------
+Detected Text in frame343.jpg:
+2023-09-04 15:36:00
+
+ug: 119.0 cen:
+Numd
+
+
+--------------------
+Detected Text in frame344.jpg:
+ug: 119.0 cen: 175.8
+>Numt
+
+
+--------------------
+Detected Text in frame345.jpg:
+ug: 119.0 cen: 175.8
+Numd
+
+
+--------------------
+Detected Text in frame346.jpg:
+4 15:36:00
+
+avg: 119.0 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame347.jpg:
+2023-09-04 15:36:00)
+
+aug: 119.0 cen:
+Num
+P
+
+
+--------------------
+Detected Text in frame348.jpg:
+72.0 2 4 15:36:00
+aug: 119.0 cen: 175.8)
+>Num
+Ra 112.8
+
+
+--------------------
+Detected Text in frame349.jpg:
+72.0 4 15:36:00
+aug: 119.0 cen: 175.8)
+>Numt
+Pi 112.8
+
+
+--------------------
+Detected Text in frame35.jpg:
+2023-09-04 15:35:48)
+
+
+--------------------
+Detected Text in frame350.jpg:
+2023-09-04 15:36:01)
+
+ug: 119.0 cen: 175.8
+umd
+
+
+--------------------
+Detected Text in frame351.jpg:
+ax: 188.7 min: 84.1] 2023-09-04 15:36:01)
+ug: 137.7 cen: 171.3 4
+Num
+
+136.2
+
+
+--------------------
+Detected Text in frame352.jpg:
+max: 188.2 min: 84.1) 2023-09-04 15:36:01)
+ug: 137.7 cen: 171.3
+Num
+
+136.2
+
+
+--------------------
+Detected Text in frame353.jpg:
+max: 188.7 min: 2023-09-04 15:36:01)
+ug: 132.7 cen: 171.
+Num.
+
+
+--------------------
+Detected Text in frame354.jpg:
+ax: 188.2 min: 2023-09-04 15:36:01)
+ug: 137.7 cen: 171.
+Num,
+
+
+--------------------
+Detected Text in frame355.jpg:
+2023-09-04 15:36:01))
+
+
+--------------------
+Detected Text in frame356.jpg:
+2023-09-04 15:36:01)
+
+aug: 137.7 cen?
+Num
+
+
+--------------------
+Detected Text in frame357.jpg:
+2023-09-04 15:36:01)
+
+
+--------------------
+Detected Text in frame358.jpg:
+C,Dist:0.70
+
+
+--------------------
+Detected Text in frame359.jpg:
+C Dist :6.70
+
+--------------------
+Detected Text in frame36.jpg:
+
+--------------------
+Detected Text in frame360.jpg:
+
+--------------------
+Detected Text in frame361.jpg:
+
+--------------------
+Detected Text in frame362.jpg:
+
+--------------------
+Detected Text in frame363.jpg:
+
+--------------------
+Detected Text in frame364.jpg:
+
+--------------------
+Detected Text in frame365.jpg:
+Ta
+
+of
+
+i:
+
+--------------------
+Detected Text in frame366.jpg:
+2023-09-04 15:36
+
+
+--------------------
+Detected Text in frame367.jpg:
+3-09-04 15:36:01)
+
+
+--------------------
+Detected Text in frame368.jpg:
+23-09-04 15:36:01]
+
+
+--------------------
+Detected Text in frame369.jpg:
+
+--------------------
+Detected Text in frame37.jpg:
+
+--------------------
+Detected Text in frame370.jpg:
+ug: 137.7 cen: 171.3)
+Nun
+
+
+--------------------
+Detected Text in frame371.jpg:
+19-04 15:36:01]
+
+aug: 137.7 cen:
+Num
+
+Atm. Temp
+
+--------------------
+Detected Text in frame372.jpg:
+aug: 137.7 cen:
+>Numd
+P
+
+
+--------------------
+Detected Text in frame373.jpg:
+aug: 137.7 cen:
+>Numd
+P
+
+
+--------------------
+Detected Text in frame374.jpg:
+aug: 137.7 cen:
+>Numd
+P
+
+
+--------------------
+Detected Text in frame375.jpg:
+ax: 188.7 min: 84.4]
+ug: 137.7 cen: 121.3
+Nun
+
+136.
+
+
+--------------------
+Detected Text in frame376.jpg:
+2023-09-04 15:36:02)
+
+aug: 135.8 cen:
+>Num
+P
+
+
+--------------------
+Detected Text in frame377.jpg:
+2023-09-04 15:36:02]
+
+aug: 135.8 cen: 198.7)
+>Numt
+P
+
+
+--------------------
+Detected Text in frame378.jpg:
+max: 201.5 min: 83.2 2023-09-04 15:36:02)
+aug: 135.8 cen: 198.7)
+>Numt
+
+162.3
+
+
+--------------------
+Detected Text in frame379.jpg:
+ax: 201.5 min: 83.2| 2023-09-04 15:36:02]
+ug: 135.8 cen: 198.7
+umd
+
+162.3
+
+
+--------------------
+Detected Text in frame38.jpg:
+
+--------------------
+Detected Text in frame380.jpg:
+2023-09-04 15:36:02,
+
+
+--------------------
+Detected Text in frame381.jpg:
+
+--------------------
+Detected Text in frame382.jpg:
+‘C.Dist:0.70-— Atm
+
+
+--------------------
+Detected Text in frame383.jpg:
+Dist :0.70 atm.
+
+
+--------------------
+Detected Text in frame384.jpg:
+
+--------------------
+Detected Text in frame385.jpg:
+
+--------------------
+Detected Text in frame386.jpg:
+ax: 201.5 min:
+ug: 135.8 cen:
+Numd
+
+#
+
+--------------------
+Detected Text in frame387.jpg:
+ax: 201.5 min: 83.2]
+ug: 135.8 cen: 198.7}
+Nun
+
+162.
+
+
+--------------------
+Detected Text in frame388.jpg:
+ax: 201.5 min: 83.2|
+ug: 135.8 cen: 198.7)
+Nun,
+
+162.3}
+
+
+--------------------
+Detected Text in frame389.jpg:
+ax: 201.5 min: 63.2 2023-09-04 15:36:02]
+
+avg: 135.8 cen: 198.7
+
+>Numt
+
+162.3
+
+
+--------------------
+Detected Text in frame39.jpg:
+
+--------------------
+Detected Text in frame390.jpg:
+ax: 201.5 min:
+ug: 135.8 cen:
+
+
+--------------------
+Detected Text in frame391.jpg:
+ax: 201.5 min: 83.2
+ug: 135.8 cen: 198.7)
+Numd
+
+
+--------------------
+Detected Text in frame392.jpg:
+2023-09-04 15:36:02]
+
+
+--------------------
+Detected Text in frame393.jpg:
+ax: 201.5 min: 83.2 2023-09-04 15:36:02}
+
+aug: 135.8 cen: 198.7]
+
+>Numt
+
+
+--------------------
+Detected Text in frame394.jpg:
+2023-09-04 15:46:02)
+
+
+--------------------
+Detected Text in frame395.jpg:
+
+--------------------
+Detected Text in frame396.jpg:
+
+--------------------
+Detected Text in frame397.jpg:
+
+--------------------
+Detected Text in frame398.jpg:
+2023-09-04 15:36:02
+
+ax: 201.5 min: 83.
+aug: 135.8 cen: 198.7]
+
+>Numt
+
+
+--------------------
+Detected Text in frame399.jpg:
+ax: 201.5 min: 83.2)
+aug: 135.8 cen: 198.7)
+bund
+
+162 .
+
+
+--------------------
+Detected Text in frame4.jpg:
+aug: 153.2 cen:
+>Numt
+
+a
+
+--------------------
+Detected Text in frame40.jpg:
+319
+
+
+--------------------
+Detected Text in frame400.jpg:
+
+--------------------
+Detected Text in frame401.jpg:
+max: 201.5 min:
+
+83.2)
+
+
+--------------------
+Detected Text in frame402.jpg:
+
+--------------------
+Detected Text in frame403.jpg:
+
+--------------------
+Detected Text in frame404.jpg:
+aug: 143-1 cen: 219.
+Nut
+
+
+--------------------
+Detected Text in frame405.jpg:
+
+--------------------
+Detected Text in frame406.jpg:
+ug: 143.1 cen:
+umd
+
+
+--------------------
+Detected Text in frame407.jpg:
+
+--------------------
+Detected Text in frame408.jpg:
+
+--------------------
+Detected Text in frame409.jpg:
+
+--------------------
+Detected Text in frame41.jpg:
+
+--------------------
+Detected Text in frame410.jpg:
+ax: 222.0 min: 84.3]
+ug: 143.1 cen: 219.4
+fund
+
+175.5)
+
+
+--------------------
+Detected Text in frame411.jpg:
+04 15:36:03}
+
+aug: 143.1 cen:
+fund
+
+
+--------------------
+Detected Text in frame412.jpg:
+ax: 227.0 min: 84.3) s 2023-09-04 15:36:03}
+ug: 143.1 cen: 219.4 io
+Num,
+
+125.5)
+
+
+--------------------
+Detected Text in frame413.jpg:
+ax: 222.0 min: 84.3] ‘ 2023-09-04 15:36:03
+ug: 143.1 cen: 219.4
+fund
+
+125.5)
+
+
+--------------------
+Detected Text in frame414.jpg:
+aug: 143.1 cen:
+Nun.
+
+
+--------------------
+Detected Text in frame415.jpg:
+
+--------------------
+Detected Text in frame416.jpg:
+2023-09-04
+
+aug: 143-1 cen: 219.4
+um,
+
+
+--------------------
+Detected Text in frame417.jpg:
+aug: 143-1 cen: 219.4
+ium,
+
+
+--------------------
+Detected Text in frame418.jpg:
+
+--------------------
+Detected Text in frame419.jpg:
+ax: 227.0 min: 84.
+aug: 143.1 cen: 219.4
+
+
+--------------------
+Detected Text in frame42.jpg:
+
+--------------------
+Detected Text in frame420.jpg:
+max: 227.0 min: 84. 2023-09-04
+aug: 143.1 cen: 219.4
+Nun.
+
+
+--------------------
+Detected Text in frame421.jpg:
+ax: 222.0 min:
+aug: 143.1 cen: 219.4
+Nun,
+
+
+--------------------
+Detected Text in frame422.jpg:
+ax: 227.0 min?
+aug: 143.1 cen: 219.4
+
+2023-09-04 15:36:03
+
+
+--------------------
+Detected Text in frame423.jpg:
+ax: 222.0 min:
+
+
+--------------------
+Detected Text in frame424.jpg:
+ax: 222.0 min:
+aug: 143.1 cen: 219.4
+Nun
+
+
+--------------------
+Detected Text in frame425.jpg:
+max: 222.0 min?
+aug: 143.1 cen: 219.4
+Nun,
+
+
+--------------------
+Detected Text in frame426.jpg:
+aug: 134.3 cen:
+>Num1
+
+
+--------------------
+Detected Text in frame427.jpg:
+ax: 245.2 min: 82.2]
+aug: 134.3 cen: 229.9
+Num
+
+
+--------------------
+Detected Text in frame428.jpg:
+
+--------------------
+Detected Text in frame429.jpg:
+max: 245.7 min:
+aug: 134.3 cen:
+Num
+
+2023-09-04
+
+
+--------------------
+Detected Text in frame43.jpg:
+
+--------------------
+Detected Text in frame430.jpg:
+max: 245.2 min:
+aug: 134.3 cen:
+Nun,
+
+
+--------------------
+Detected Text in frame431.jpg:
+max: 245.2 min
+aug: 134.3 cen:
+Nun,
+
+2023-09-04
+
+
+--------------------
+Detected Text in frame432.jpg:
+
+--------------------
+Detected Text in frame433.jpg:
+
+--------------------
+Detected Text in frame434.jpg:
+
+--------------------
+Detected Text in frame435.jpg:
+max: 245.2 min:
+aug: 134.3 cen:
+Nun,
+
+
+--------------------
+Detected Text in frame436.jpg:
+ax: 245.2 min: 82.2]
+aug: 134.3 cen: 229.9
+Num
+
+185.3)
+
+
+--------------------
+Detected Text in frame437.jpg:
+ax: 245.2 min: 82.2]
+aug: 134.3 cen: 229.9
+Num
+
+185.3}
+
+
+--------------------
+Detected Text in frame438.jpg:
+ax: 245.2 min:
+aug: 134.3 cen:
+Nun,
+
+
+--------------------
+Detected Text in frame439.jpg:
+ax: 245.2 min: 82.2]
+aug: 134.3 cen: 229.9
+Num
+
+
+--------------------
+Detected Text in frame44.jpg:
+
+--------------------
+Detected Text in frame440.jpg:
+aug: 134.3 cen:
+Nun.
+
+
+--------------------
+Detected Text in frame441.jpg:
+2023-09-04 15:36:04}
+
+aug: 134.3 cen:
+
+Nun,
+
+
+--------------------
+Detected Text in frame442.jpg:
+2023-09-04 15:36:04]
+
+aug: 134.3 cen:
+Nun,
+
+
+--------------------
+Detected Text in frame443.jpg:
+aug: 134.3 cen:
+Nun,
+
+
+--------------------
+Detected Text in frame444.jpg:
+aug: 134.3 cen:
+Nun,
+
+
+--------------------
+Detected Text in frame445.jpg:
+aug: 134.3 cen:
+Nun,
+
+
+--------------------
+Detected Text in frame446.jpg:
+aug: 134.3 cen:
+Nun.
+
+
+--------------------
+Detected Text in frame447.jpg:
+aug: 134.3 cen:
+umd
+
+
+--------------------
+Detected Text in frame448.jpg:
+aug: 134.3 cen:
+umd
+
+
+--------------------
+Detected Text in frame449.jpg:
+aug: 134.3 cen:
+umd
+
+2023-09-04" 15:36:04]
+
+
+--------------------
+Detected Text in frame45.jpg:
+
+--------------------
+Detected Text in frame450.jpg:
+245)
+
+
+--------------------
+Detected Text in frame451.jpg:
+ax: 245.2 min: 82.2]
+ug: 134.3 cen: 229.9}
+
+
+--------------------
+Detected Text in frame452.jpg:
+
+--------------------
+Detected Text in frame453.jpg:
+
+--------------------
+Detected Text in frame454.jpg:
+ax: 303.9 min: 78.2]
+ug: 128.3 cen: 292.6)
+
+
+--------------------
+Detected Text in frame455.jpg:
+ax: 303.9 min: 28.2] ) 2023-09-04 15:361
+ug: 128.3 cen: 292.6}
+
+
+--------------------
+Detected Text in frame456.jpg:
+© 2023-09-04 15:36:30!
+
+
+--------------------
+Detected Text in frame457.jpg:
+ax: 303.9 min:
+ug: 128.3 cen:
+
+
+--------------------
+Detected Text in frame458.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame459.jpg:
+303
+
+
+--------------------
+Detected Text in frame46.jpg:
+
+--------------------
+Detected Text in frame460.jpg:
+ax: 303.9 min: 78.7] 2023-09-04 15:36
+ug: 128.3 cen: 292.6) i
+Num,
+
+495 .
+
+bh
+
+
+--------------------
+Detected Text in frame461.jpg:
+ax: 303.9 min: 78.2 2023-03-04 15:36;05)
+ug: 128.3 cen: 292.6)
+Num
+
+195.2)
+
+
+--------------------
+Detected Text in frame462.jpg:
+ax: 303.9 min: 78.2
+ug: 128.3 cen: 292.6)
+Num
+
+195.2)
+
+
+--------------------
+Detected Text in frame463.jpg:
+ax: 303.9 min: 78.2
+ug: 128.3 cen: 292.6)
+>Numt
+
+
+--------------------
+Detected Text in frame464.jpg:
+ax: 303.9 min: 78.2
+ug: 128.3 cen: 292.6)
+>Numt
+
+195.2)
+
+
+--------------------
+Detected Text in frame465.jpg:
+ax: 303.9 min: 78.2 ) 2023-09-04 15:36:05)
+ug: 128.3 cen: 292.6
+>Numt
+
+195.2)
+
+
+--------------------
+Detected Text in frame466.jpg:
+ax: 303.9 min: 78.2]
+ug: 128.3 cen: 292.6)
+>Numd
+
+
+--------------------
+Detected Text in frame467.jpg:
+ax: 303.9 min: 78.2]
+ug: 128.3 cen: 292.6)
+>Numd
+
+195.2)
+
+
+--------------------
+Detected Text in frame468.jpg:
+ax: 303.9 min: 28.2]
+ug: 128.3 cen: 292.6) 303.
+>Numt 3
+
+195.2)
+
+
+--------------------
+Detected Text in frame469.jpg:
+ax: 303.9 min: 28.2] H) 2023-03-04
+ug: 128.3 cen: 292.6) 3
+>Numd
+
+
+--------------------
+Detected Text in frame47.jpg:
+
+--------------------
+Detected Text in frame470.jpg:
+ax: 303.9 min:
+ug: 128.3 cen:
+>Num
+
+28.2]
+292.6)
+
+195.2)
+
+303.
+
+
+--------------------
+Detected Text in frame471.jpg:
+ax: 303.9 min: 78.2]
+ug: 128.3 cen: 292.6 4 303
+>Numt
+
+195.7}
+
+
+--------------------
+Detected Text in frame472.jpg:
+:2023-09-04 15:
+
+303
+
+
+--------------------
+Detected Text in frame473.jpg:
+ax: 303.9 min: 28.2]
+ug: 128.3 cen: 292.6)
+
+2023-09-04 15:36:05)
+303
+
+>Num
+
+
+--------------------
+Detected Text in frame474.jpg:
+ax: 303.9 min: 28.2]
+ug: 128.3 cen: 292.6 | 303.3
+>Numd if i
+
+
+--------------------
+Detected Text in frame475.jpg:
+ax: 303.9 min: 28.2]
+ug: 128.3 cen: 292.6)
+>Numt
+
+
+--------------------
+Detected Text in frame476.jpg:
+4 mi | 2023-09-04 15:36%
+ug: 131.5 cen: 294. | 303.3
+
+>Num
+
+
+--------------------
+Detected Text in frame477.jpg:
+2023-05-04
+
+ug: 131.5 cen:
+>Num
+
+
+--------------------
+Detected Text in frame478.jpg:
+2023-09-04
+
+yg: 131.5 cen:
+>Num
+
+
+--------------------
+Detected Text in frame479.jpg:
+gi 131.5 cen: 294. : Ex
+
+>Num
+
+
+--------------------
+Detected Text in frame48.jpg:
+ax: 319.1 min:
+wg: 179.4 cen:
+Nur
+
+ce
+
+--------------------
+Detected Text in frame480.jpg:
+ug: 131.5 cen:
+>Num
+
+
+--------------------
+Detected Text in frame481.jpg:
+ug: 131.5 cen:
+>Num
+
+
+--------------------
+Detected Text in frame482.jpg:
+ug: 131.5 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame483.jpg:
+ug: 131.5 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame484.jpg:
+ax: 306.4 min: 78.0)
+ug: 131.5 cen: 294.1)
+>Num
+
+196.2)
+
+
+--------------------
+Detected Text in frame485.jpg:
+ug: 131.5 cen:
+>NumL
+
+
+--------------------
+Detected Text in frame486.jpg:
+ax: 306.4 min: 78.9 2023-09-04
+ug: 131.5 cen: 294.4]
+Hunt
+
+196.7)
+
+
+--------------------
+Detected Text in frame487.jpg:
+ax: 306.4 min:
+ug: 131.5 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame488.jpg:
+ax: 306.4 min: 78. :
+ug: 131.5 cen: 294, zi 306
+Num
+
+
+--------------------
+Detected Text in frame489.jpg:
+ug: 131.5 cen: 294. 306
+Nun
+
+
+--------------------
+Detected Text in frame49.jpg:
+ax: 319.1 min:
+
+
+--------------------
+Detected Text in frame490.jpg:
+ug: 131.5 cen: 294. : 306
+Num E
+
+
+--------------------
+Detected Text in frame491.jpg:
+306
+
+
+--------------------
+Detected Text in frame492.jpg:
+vg: 131-5 cen: 294. 306
+Num 1 a
+
+
+--------------------
+Detected Text in frame493.jpg:
+ax: 306.4 min: 78.9
+vg: 131.5 cen: 294.1) 306
+Num
+
+IC, Dist :0.70 ae 31.00)
+
+
+--------------------
+Detected Text in frame494.jpg:
+1 306. 3 2023-09-04 15:36:06)
+wg: 131.5 cen: 294. . zi 306
+>Numd 2
+
+
+--------------------
+Detected Text in frame495.jpg:
+ug: 131.5 cen:
+>Num1
+
+
+--------------------
+Detected Text in frame496.jpg:
+ug: 131.5 cen:
+>Num1
+
+
+--------------------
+Detected Text in frame497.jpg:
+ug: 131.5 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame498.jpg:
+ax: 306.4 min?
+ug? 131.5 cen:
+>Numd
+
+——
+
+
+--------------------
+Detected Text in frame499.jpg:
+2023-03-04 15:36:06)
+
+
+--------------------
+Detected Text in frame5.jpg:
+aug: 153.2 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame50.jpg:
+ax: 319.1 min: 89.
+aug: 179.4 cen: 305.3
+
+
+--------------------
+Detected Text in frame500.jpg:
+
+--------------------
+Detected Text in frame501.jpg:
+
+--------------------
+Detected Text in frame502.jpg:
+
+--------------------
+Detected Text in frame503.jpg:
+
+--------------------
+Detected Text in frame504.jpg:
+
+--------------------
+Detected Text in frame505.jpg:
+
+--------------------
+Detected Text in frame506.jpg:
+
+--------------------
+Detected Text in frame507.jpg:
+
+--------------------
+Detected Text in frame508.jpg:
+2023-03-04 15:36:07)
+
+
+--------------------
+Detected Text in frame509.jpg:
+
+--------------------
+Detected Text in frame51.jpg:
+ax: 319.1 min: 89.
+aug: 179.4 cen: 305.3
+
+313,
+
+
+--------------------
+Detected Text in frame510.jpg:
+
+--------------------
+Detected Text in frame511.jpg:
+
+--------------------
+Detected Text in frame512.jpg:
+2023-09-04 15:36:02]
+
+
+--------------------
+Detected Text in frame513.jpg:
+ax: 280.0 min: 82. 2023-09-04
+
+
+--------------------
+Detected Text in frame514.jpg:
+ax: 280.0 min: 62.2
+Bug: 142.7 cen: 271.1
+
+203.3
+
+
+--------------------
+Detected Text in frame515.jpg:
+ax: 280.0 min: 82.2 2023-09-04 15:.
+ug: 142.7 cen: 271.1
+Nun
+
+
+--------------------
+Detected Text in frame516.jpg:
+2023-09-04 15:36:07)
+
+
+--------------------
+Detected Text in frame517.jpg:
+
+--------------------
+Detected Text in frame518.jpg:
+ax: 280.0 min: 82.2
+ug: 142.7 cen: 271.1
+Num
+
+203.3)
+
+
+--------------------
+Detected Text in frame519.jpg:
+ax: 280.0 min: 62.2
+ug: 142.7 cen: 271.1]
+Nun
+
+
+--------------------
+Detected Text in frame52.jpg:
+ax: 319.1 min:
+
+319
+
+
+--------------------
+Detected Text in frame520.jpg:
+
+--------------------
+Detected Text in frame521(1).jpg:
+2023-09-04 15:36
+i
+
+
+--------------------
+Detected Text in frame521.jpg:
+2023-09-04 15:36
+i
+
+
+--------------------
+Detected Text in frame522(1).jpg:
+
+--------------------
+Detected Text in frame522.jpg:
+
+--------------------
+Detected Text in frame523(1).jpg:
+
+--------------------
+Detected Text in frame523.jpg:
+
+--------------------
+Detected Text in frame524(1).jpg:
+
+--------------------
+Detected Text in frame524.jpg:
+
+--------------------
+Detected Text in frame525(1).jpg:
+
+--------------------
+Detected Text in frame525.jpg:
+
+--------------------
+Detected Text in frame526(1).jpg:
+
+--------------------
+Detected Text in frame526.jpg:
+
+--------------------
+Detected Text in frame527(1).jpg:
+
+--------------------
+Detected Text in frame527.jpg:
+
+--------------------
+Detected Text in frame528(1).jpg:
+-09-04 15:36
+
+
+--------------------
+Detected Text in frame528.jpg:
+-09-04 15:36
+
+
+--------------------
+Detected Text in frame529(1).jpg:
+
+--------------------
+Detected Text in frame529.jpg:
+
+--------------------
+Detected Text in frame53(1).jpg:
+319
+
+
+--------------------
+Detected Text in frame53.jpg:
+319
+
+
+--------------------
+Detected Text in frame530.jpg:
+2023-09-04 15:36:08)
+
+
+--------------------
+Detected Text in frame531.jpg:
+}-09-04 15:36:08)
+
+
+--------------------
+Detected Text in frame532.jpg:
+
+--------------------
+Detected Text in frame533.jpg:
+
+--------------------
+Detected Text in frame534.jpg:
+
+--------------------
+Detected Text in frame535.jpg:
+
+--------------------
+Detected Text in frame536.jpg:
+708]
+
+
+--------------------
+Detected Text in frame537.jpg:
+2023-09-04 15:36:08)
+
+
+--------------------
+Detected Text in frame538.jpg:
+3
+
+--------------------
+Detected Text in frame539.jpg:
+
+--------------------
+Detected Text in frame54.jpg:
+2023-09-04 15345549)
+
+344
+
+
+--------------------
+Detected Text in frame540.jpg:
+
+--------------------
+Detected Text in frame541.jpg:
+
+--------------------
+Detected Text in frame542.jpg:
+
+--------------------
+Detected Text in frame543.jpg:
+
+--------------------
+Detected Text in frame544.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame545.jpg:
+
+--------------------
+Detected Text in frame546.jpg:
+ax: 265.0 min: 92.0
+pug: 176.1 cen: 254.4
+umd
+
+
+--------------------
+Detected Text in frame547.jpg:
+
+--------------------
+Detected Text in frame548.jpg:
+
+--------------------
+Detected Text in frame549.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame55.jpg:
+ax: 349.9 min: 63. 2023-03-04 15:45+49)
+
+aug: 151.8 cen: 317.4 344
+
+
+--------------------
+Detected Text in frame550.jpg:
+
+--------------------
+Detected Text in frame551.jpg:
+
+--------------------
+Detected Text in frame552.jpg:
+
+--------------------
+Detected Text in frame553.jpg:
+
+--------------------
+Detected Text in frame554.jpg:
+F
+
+--------------------
+Detected Text in frame555.jpg:
+2023-09-04 15:36:03}
+
+
+--------------------
+Detected Text in frame556.jpg:
+2023-09-04 15:36:09}
+
+
+--------------------
+Detected Text in frame557.jpg:
+2023-09-04 15:36:03}
+
+
+--------------------
+Detected Text in frame558.jpg:
+2023-09-04 15:36:03}
+
+
+--------------------
+Detected Text in frame559.jpg:
+2023-09-04 15:36
+
+aug: 157.3 cen: 268.1]
+Num
+
+
+--------------------
+Detected Text in frame56.jpg:
+ax: 344.9 min: 63.
+aug: 151.8 cen: 317.4
+
+
+--------------------
+Detected Text in frame560.jpg:
+ax: 280.1 min:
+aug: 157.3 cen:
+Nun
+
+
+--------------------
+Detected Text in frame561.jpg:
+ax: 2B0.1 min: 88.2]
+yy: 157.3 cen: 268.1)
+umd
+
+
+--------------------
+Detected Text in frame562.jpg:
+ax: 280.1 min:
+wy: 152.3 cen:
+umd
+
+
+--------------------
+Detected Text in frame563.jpg:
+ax: 280.1 min: 88.2] 2023-09-04 15:36)
+ug: 157.3 cen: 268.1]
+Hunt
+
+204.0)
+
+
+--------------------
+Detected Text in frame564.jpg:
+ax: 280.1 min:
+yg: 157.3 cen:
+umd
+
+
+--------------------
+Detected Text in frame565.jpg:
+ax: 289.1 min: 88.2
+157.3 cen: 268.1|
+
+
+--------------------
+Detected Text in frame566.jpg:
+2023-09-04 15:36:09}
+
+
+--------------------
+Detected Text in frame567.jpg:
+2023-09-04 15:36:09}
+
+
+--------------------
+Detected Text in frame568.jpg:
+
+--------------------
+Detected Text in frame569.jpg:
+Of
+
+
+--------------------
+Detected Text in frame57.jpg:
+ax: 344.9 min: 63. 2023-09-04 15335249}
+
+
+--------------------
+Detected Text in frame570.jpg:
+
+--------------------
+Detected Text in frame571.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame572.jpg:
+ax: 280.1 min: 88.2] 2023-09-04 15:36%
+wg: 157.3 cen: 268.1
+Nun :
+
+
+--------------------
+Detected Text in frame573.jpg:
+
+--------------------
+Detected Text in frame574.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame575.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame576.jpg:
+2023-09-04 15:36:40}
+
+
+--------------------
+Detected Text in frame577.jpg:
+
+--------------------
+Detected Text in frame578.jpg:
+
+--------------------
+Detected Text in frame579.jpg:
+
+--------------------
+Detected Text in frame58.jpg:
+ax: 344.9 min: 63. t 2023-09-04 15345249}
+aug: 151.8 cen: ji
+
+
+--------------------
+Detected Text in frame580.jpg:
+
+--------------------
+Detected Text in frame581.jpg:
+
+--------------------
+Detected Text in frame582.jpg:
+
+--------------------
+Detected Text in frame583.jpg:
+
+--------------------
+Detected Text in frame584.jpg:
+2023-09-04 153363
+
+
+--------------------
+Detected Text in frame585.jpg:
+2023-09-04 15:36:10)
+
+
+--------------------
+Detected Text in frame586.jpg:
+
+--------------------
+Detected Text in frame587.jpg:
+
+--------------------
+Detected Text in frame588.jpg:
+
+--------------------
+Detected Text in frame589.jpg:
+
+--------------------
+Detected Text in frame59.jpg:
+2023-09-04) 15145249)
+
+Exe
+
+
+--------------------
+Detected Text in frame590.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame591.jpg:
+
+--------------------
+Detected Text in frame592.jpg:
+
+--------------------
+Detected Text in frame593.jpg:
+2023-09-04 15:36:10)
+
+
+--------------------
+Detected Text in frame594.jpg:
+
+--------------------
+Detected Text in frame595.jpg:
+
+--------------------
+Detected Text in frame596.jpg:
+
+--------------------
+Detected Text in frame597.jpg:
+
+--------------------
+Detected Text in frame598.jpg:
+
+--------------------
+Detected Text in frame599.jpg:
+2023-09-04 _
+
+
+--------------------
+Detected Text in frame6.jpg:
+aug: 153.2 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame60.jpg:
+
+--------------------
+Detected Text in frame600.jpg:
+
+--------------------
+Detected Text in frame601.jpg:
+ax! 272.6 min:
+
+88.2]
+
+
+--------------------
+Detected Text in frame602.jpg:
+
+--------------------
+Detected Text in frame603.jpg:
+2023-09-04 15:36%
+
+F
+
+--------------------
+Detected Text in frame604.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame605.jpg:
+
+--------------------
+Detected Text in frame606.jpg:
+
+--------------------
+Detected Text in frame607.jpg:
+
+--------------------
+Detected Text in frame608.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame609.jpg:
+
+--------------------
+Detected Text in frame61.jpg:
+ax: 344.9 min: 63.2]
+
+
+--------------------
+Detected Text in frame610.jpg:
+ax: 314.4 min: 61.
+ug: 133.? cen: 283.6
+>Numd,
+
+
+--------------------
+Detected Text in frame611.jpg:
+ax: 314.4 min:
+ug: 133.7 cen: 289.6)
+pNumd
+
+
+--------------------
+Detected Text in frame612.jpg:
+ax: 314.4 min: 61.
+wg: 133.7 cen: 289.6) : ‘i 314,
+pNumd :
+
+
+--------------------
+Detected Text in frame613.jpg:
+
+--------------------
+Detected Text in frame614.jpg:
+ax: 314.4 min: 81.8)
+
+
+--------------------
+Detected Text in frame615.jpg:
+
+--------------------
+Detected Text in frame616.jpg:
+ax: 314.4 min: 61. 6
+wg: 133.7 cen: i : | 314-4
+
+>Numt
+
+
+--------------------
+Detected Text in frame617.jpg:
+
+--------------------
+Detected Text in frame618.jpg:
+2023-03-04
+
+314
+
+
+--------------------
+Detected Text in frame619.jpg:
+ax: 314.4 min: 61.8)
+aug: 133.7 cen: 283.6) 314
+
+204.1)
+
+
+--------------------
+Detected Text in frame62.jpg:
+Pal 83.2
+
+
+--------------------
+Detected Text in frame620.jpg:
+ax: 314.4 min: 61.8) P 2023-09-04 15:36:11}
+ug: 133.7 cen: 283.6) : 314,
+Hunt 4
+
+
+--------------------
+Detected Text in frame621.jpg:
+ax: 314.4 min: 61.8)
+ug: 133.7 cen: 289.6) 314.
+Hund
+
+
+--------------------
+Detected Text in frame622.jpg:
+ax: 314.4 min: 61.8) q
+ug: 133.7 cen: 289.6 314
+umd
+
+
+--------------------
+Detected Text in frame623.jpg:
+314
+
+
+--------------------
+Detected Text in frame624.jpg:
+2023-09-04
+
+314
+
+
+--------------------
+Detected Text in frame625.jpg:
+2023-03-04 15:36:42]
+314
+
+
+--------------------
+Detected Text in frame626.jpg:
+ax: 350.3 min: 62.5]
+ug: 136.0 cen: 336.4 2 314
+umd
+
+
+--------------------
+Detected Text in frame627.jpg:
+2023-09-04
+
+350.
+
+--------------------
+Detected Text in frame628.jpg:
+350
+
+
+--------------------
+Detected Text in frame629.jpg:
+350
+
+
+--------------------
+Detected Text in frame63.jpg:
+
+--------------------
+Detected Text in frame630.jpg:
+ax! 350.3 min: 62.5] 2023-09-04 15:36
+wy: 136.0 cen: 336.4 é
+Num,
+
+206.1)
+
+350
+
+i
+
+
+--------------------
+Detected Text in frame631.jpg:
+350
+
+
+--------------------
+Detected Text in frame632.jpg:
+ax: 350.3 min: 82.5)
+ug: 136.0 cen: 336.4 z 350
+Hund
+
+
+--------------------
+Detected Text in frame633.jpg:
+ax! 350.3 min:
+ug: 136.0 cen: 336. 350
+
+
+--------------------
+Detected Text in frame634.jpg:
+2023-03-04 15:36:42]
+350
+
+
+--------------------
+Detected Text in frame635.jpg:
+ax! 350.3 min: 62.5]
+ug: 136.0 cen: 336.4 350
+>Numt. P
+
+
+--------------------
+Detected Text in frame636.jpg:
+ax! 350.3 min: 62.5]
+ug: 136.0 cen: 336.4 350
+umd
+
+
+--------------------
+Detected Text in frame637.jpg:
+ax! 350.3 min: 62.5] 2023-09-04 15:36:
+ug: 136.0 cen: 336.4 ; 350.
+Stunt
+
+
+--------------------
+Detected Text in frame638.jpg:
+ax: 350.3 min: 62.5]
+ug: 136.0 cen: 336.4 350
+umd
+
+_206 -1]
+
+
+--------------------
+Detected Text in frame639.jpg:
+ax: 350.3 min: 82.5) x oe
+ug: 136.0 cen: 336.4
+Num :
+
+
+--------------------
+Detected Text in frame64.jpg:
+
+--------------------
+Detected Text in frame640.jpg:
+350
+
+
+--------------------
+Detected Text in frame641.jpg:
+ug: 136.6 cen: 336.4) 3 359.
+>Num1
+
+_ 206.1
+
+
+--------------------
+Detected Text in frame642.jpg:
+ug: 136.0 cen: 336. z 350,
+>Nund 3
+
+
+--------------------
+Detected Text in frame643.jpg:
+ax! 350.3 min: 62.5] f
+ug: 136.0 cen: 336.4 350
+>Numd 4
+
+
+--------------------
+Detected Text in frame644.jpg:
+ax! 350.3 min: 62.5] :
+wg: 136.0 cen: 336.4) z 350
+>Numd
+
+206.1)
+
+
+--------------------
+Detected Text in frame645.jpg:
+ax! 350.3 min 5
+ug? 136.0 cen: 336. 3 350
+umd
+
+
+--------------------
+Detected Text in frame646.jpg:
+5 Fi © 2023-09-04 15:36:42]
+ug: 136.0 cen: 336. ea
+Hund
+
+
+--------------------
+Detected Text in frame647.jpg:
+ax? 350.3 min 5 4
+ug: 136.0 cen: 336. : : 350
+Num,
+
+
+--------------------
+Detected Text in frame648.jpg:
+ax: 350.3 min Z
+ug: 136.0 cen: 336. 350
+umd 3
+
+
+--------------------
+Detected Text in frame649.jpg:
+ax: 350.3 min yi
+ug: 136.0 cen: 336. : y 350
+und
+
+
+--------------------
+Detected Text in frame65.jpg:
+ax: 344.9 min:
+ug: 151.8 cen: 3:
+
+
+--------------------
+Detected Text in frame650.jpg:
+ax: 350.3 min: 62.5)
+ug: 136.0 cen: 336.4 350
+Num,
+
+206.1)
+
+
+--------------------
+Detected Text in frame651.jpg:
+ax: 350.3 min: 62.5)
+ug: 136.0 cen: 336.4 350
+Num,
+
+206.1)
+
+
+--------------------
+Detected Text in frame652.jpg:
+350
+
+
+--------------------
+Detected Text in frame653.jpg:
+ax: 349.1 min: 80.1}
+ug: 138.3 cen: 341.4] 349
+Nun 4
+
+
+--------------------
+Detected Text in frame654.jpg:
+ax: 349.1 min: 80.1}
+ug: 138.3 cen: 341.4] 349
+Nun
+
+204.6)
+
+|
+
+
+--------------------
+Detected Text in frame655.jpg:
+ax: 349.1 min: 80.1}
+ug: 138.3 cen: 341.4] 349.
+Num sg
+
+204.6)
+
+
+--------------------
+Detected Text in frame656.jpg:
+ax: 349.1 min: 80.1)
+ug: 138.3 cen: 341.1 ‘ q 349.
+Num,
+
+
+--------------------
+Detected Text in frame657.jpg:
+ax: 349.1 min: 60.1)
+ug: 138.3 cen: 341.1 be 349.
+Num,
+
+204.6)
+
+
+--------------------
+Detected Text in frame658.jpg:
+ax: 349.1 min: 80. 4
+ug: 138.3 cen: 341. a EEE
+>Numt 5
+
+
+--------------------
+Detected Text in frame659.jpg:
+ax: 349.1 min: 60.1)
+wg: 138.3 cen: 341.1) é 349.
+>Numd
+
+204.6)
+
+
+--------------------
+Detected Text in frame66.jpg:
+2023-09-04 15:35:49
+
+
+--------------------
+Detected Text in frame660.jpg:
+ax: 349.1 min: 80.
+vg: 138.3 cen: 341. 349.
+>Numd :
+
+
+--------------------
+Detected Text in frame661.jpg:
+ax: 349.1 min: 80.1)
+wg: 138.3 cen: 341.1) 349
+>Numd
+
+204.6)
+
+
+--------------------
+Detected Text in frame662.jpg:
+ax: 349.1 min: 60.1)
+wg: 138.3 cen: 341.1) = 349.
+>Numd
+
+204.6)
+
+
+--------------------
+Detected Text in frame663.jpg:
+ax: 349.1 min: 80. :
+ug: 138.3 cen: 341. F 349.
+Num 1
+
+F
+
+
+--------------------
+Detected Text in frame664.jpg:
+ax: 349.1 min: 80. 2023-09-04
+wg: 138.3 cen: 341. EZE)
+Num 4
+
+
+--------------------
+Detected Text in frame665.jpg:
+ax: 349.1 min: 80.1)
+vg: 138.3 cen: 341.1 : : 349
+Num
+
+204.6)
+
+
+--------------------
+Detected Text in frame666.jpg:
+ax: 349.1 min: 80.1) | 2023-09-04 15:36:
+ug: 138.3 cen: 341.1 i 349;
+Hund :
+
+204.6)
+
+
+--------------------
+Detected Text in frame667.jpg:
+ax: 349.1 min: 80.1) 3
+ug: 138.3 cen? 341.1 : 349;
+Num 1
+
+204.6)
+
+
+--------------------
+Detected Text in frame668.jpg:
+ax: 349.1 min: 80.1) <
+wg: 138.3 cen: 344.1 2 349
+Hund
+
+
+--------------------
+Detected Text in frame669.jpg:
+ax: 349.1 min: 80.
+ug: 138.3 cen: 341.14] 5 343
+Numd :
+
+
+--------------------
+Detected Text in frame67.jpg:
+
+--------------------
+Detected Text in frame670.jpg:
+ax: 349.1 min: 80.4] 3
+ug: 138.3 cen: 341.4] 343
+>Numd : :
+
+204.6)
+
+
+--------------------
+Detected Text in frame671.jpg:
+ax: 349.1 min: 80.
+ug: 138.3 cen: 341.1] 343
+Num :
+
+
+--------------------
+Detected Text in frame672.jpg:
+ax: 349.1 min: 80.1]
+ug: 138.3 cen: 341.1 349
+Numd 3
+
+
+--------------------
+Detected Text in frame673.jpg:
+jax: 349.1 min:
+ug: 138.3 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame674.jpg:
+ax: 349.1 min: 80.4]
+ug: 138.3 cen: 341.1
+
+2023-09-04 15:36:13
+349
+
+>Numd
+
+204.6)
+
+
+--------------------
+Detected Text in frame675.jpg:
+ax: 349.1 min: 80.1] is
+ug: 138.3 cen: 341.1 r 349
+>Numd
+
+204.6)
+
+
+--------------------
+Detected Text in frame676.jpg:
+349
+
+
+--------------------
+Detected Text in frame677.jpg:
+
+--------------------
+Detected Text in frame678.jpg:
+jax: 339.9 min:
+ug: 141.9 cen:
+
+339
+
+--------------------
+Detected Text in frame679.jpg:
+ax: 339.9 min: 63.4]
+ug: 141.9 cen: 325.6) § 339
+
+222.3)
+
+
+--------------------
+Detected Text in frame68.jpg:
+
+--------------------
+Detected Text in frame680.jpg:
+ax: 339.9 min: 63.4]
+wg: 141.9 cen: 325.6) 339
+
+
+--------------------
+Detected Text in frame681.jpg:
+ax: 339.9 min: 63.4 a
+ug: 141.9 cen: 325.6} Be 339.
+
+
+--------------------
+Detected Text in frame682.jpg:
+ax: 339.9 min: 63.4
+wg: 141.9 cen: 325.6) 339
+
+
+--------------------
+Detected Text in frame683.jpg:
+ax: 339.9 min: 63.4]
+wg: 141.9 cen: 325.6)
+
+222.3)
+
+
+--------------------
+Detected Text in frame684.jpg:
+
+--------------------
+Detected Text in frame685.jpg:
+ax: 339.9 min: 63.4
+wg: 141.9 cen: 325.6)
+
+
+--------------------
+Detected Text in frame686.jpg:
+ax: 339.9 min: 83.4] 2023-09-04
+ug: 141.9 cen: 325.6]
+
+227.3}
+
+
+--------------------
+Detected Text in frame687.jpg:
+ax: 339.9 min: 83.4] ‘
+wg: 141.9 cen: 325.6) 339
+
+222.3}
+
+
+--------------------
+Detected Text in frame688.jpg:
+
+--------------------
+Detected Text in frame689.jpg:
+max: 339.9 min: 83.4]
+ug: 141.9 cen: 325.6]
+
+
+--------------------
+Detected Text in frame69.jpg:
+
+--------------------
+Detected Text in frame690.jpg:
+max: 339.9 min: 83.4]
+ug: 141.9 cen: 325.6]
+
+
+--------------------
+Detected Text in frame691.jpg:
+max: 339.9 min: 83.4]
+ug: 141.9 cen: 325.6 338.
+
+
+--------------------
+Detected Text in frame692.jpg:
+max: 339.9 min: 83.4]
+
+339
+
+
+--------------------
+Detected Text in frame693.jpg:
+max: 339.9 min: 83.4]
+ug: 141.9 cen: 325.6] 339
+
+
+--------------------
+Detected Text in frame694.jpg:
+max: 339.9 min: 83.4]
+ug: 141.9 cen: 325.6] 339
+
+rE
+
+
+--------------------
+Detected Text in frame695.jpg:
+ax? 339.9 min: 83. =
+ug: 141.9 cen: 325. % 339
+Hund
+
+
+--------------------
+Detected Text in frame696.jpg:
+jax: 339.9 min: 63.4]
+ug: 141.9 cen: 325.6) 4 F 339
+Num
+
+
+--------------------
+Detected Text in frame697.jpg:
+ax: 339.9 min: 83. F 14]
+ug: 141.9 cen: 325.
+Num
+
+
+--------------------
+Detected Text in frame698.jpg:
+jax: 339.9 min: 83.4]
+ug: 141.9 cen: 325.6)
+Num
+
+227.3}
+
+
+--------------------
+Detected Text in frame699.jpg:
+ax: 339.9 min: 83.4]
+ug: 141.9 cen: 325.6)
+>Numd
+222.3}
+
+| 2023-09-04
+
+1,00}
+
+--------------------
+Detected Text in frame7.jpg:
+2023-09-04 15:35:49}
+
+aug: 153.2 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame70.jpg:
+2023-09-04 15
+
+
+--------------------
+Detected Text in frame700.jpg:
+ax: 339.9 min: 83.
+aug: 141.9 cen: 325.6
+Num,
+
+
+--------------------
+Detected Text in frame701.jpg:
+ax: 339.9 min: 63.4]
+avg: 141.9 cen: 325.6
+Num,
+
+227.3)
+
+‘C.Dist:0.70-—__Atm.Temp: 25.
+
+
+--------------------
+Detected Text in frame702.jpg:
+ax: 320.6 min: 87.4]
+avg: 154.8 cen: 311.0
+>Num1
+
+
+--------------------
+Detected Text in frame703.jpg:
+aug: 154.8 cen:
+>Numd.
+
+
+--------------------
+Detected Text in frame704.jpg:
+aug: 154.8 cen:
+Num
+
+
+--------------------
+Detected Text in frame705.jpg:
+aug: 154.8 cen:
+Num
+
+
+--------------------
+Detected Text in frame706.jpg:
+aug: 154.8 cen:
+>Num
+
+
+--------------------
+Detected Text in frame707.jpg:
+aug: 154.8 cen:
+>Num
+
+
+--------------------
+Detected Text in frame708.jpg:
+ax: 320.6 min: 67.4)
+aug: 154.8 cen: 311.0
+Num,
+
+
+--------------------
+Detected Text in frame709.jpg:
++ 320.6 min:
+aug: 154.8 cen:
+
+
+--------------------
+Detected Text in frame71.jpg:
+
+--------------------
+Detected Text in frame710.jpg:
+
+--------------------
+Detected Text in frame711.jpg:
+ax? 320.6 min: 67.1)
+pug: 154.8 cen: 311.0
+
+216.4)
+
+
+--------------------
+Detected Text in frame712.jpg:
+1 320.6 min
+aug: 154.8 cen:
+
+2023-03-04
+
+
+--------------------
+Detected Text in frame713.jpg:
+
+--------------------
+Detected Text in frame714.jpg:
+
+--------------------
+Detected Text in frame715.jpg:
+max: 320.6 min: 87.1]
+aug: 154.8 cen: 311.0
+
+
+--------------------
+Detected Text in frame716.jpg:
+max: 320.6 min: 87.1]
+pug: 154.8 cen: 311.0
+
+
+--------------------
+Detected Text in frame717.jpg:
+ax: 320.6 min: 87.1]
+aug: 154.8 cen: 311.0
+
+216.4)
+
+
+--------------------
+Detected Text in frame718.jpg:
+max: 320.6 min: 87.1]
+aug: 154.8 cen: 311.0
+
+
+--------------------
+Detected Text in frame719.jpg:
+ax: 320.6 min: 67.1 : 2023-09-04
+pug: 154.8 cen: 311.0
+
+
+--------------------
+Detected Text in frame72.jpg:
+
+--------------------
+Detected Text in frame720.jpg:
+
+--------------------
+Detected Text in frame721.jpg:
+
+--------------------
+Detected Text in frame722.jpg:
+
+--------------------
+Detected Text in frame723.jpg:
+
+--------------------
+Detected Text in frame724.jpg:
+
+--------------------
+Detected Text in frame725.jpg:
+
+--------------------
+Detected Text in frame726.jpg:
+
+--------------------
+Detected Text in frame727.jpg:
+15:36:16)
+
+
+--------------------
+Detected Text in frame728.jpg:
+
+--------------------
+Detected Text in frame729.jpg:
+2023-09-04
+
+aug: 165.0 cen:
+ain
+
+
+--------------------
+Detected Text in frame73.jpg:
+
+--------------------
+Detected Text in frame730.jpg:
+
+--------------------
+Detected Text in frame731.jpg:
+2023-03-04 15:36:46)
+
+
+--------------------
+Detected Text in frame732.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame733.jpg:
+
+--------------------
+Detected Text in frame734.jpg:
+1g: 165.0 cen: 281.6
+>Numd
+
+
+--------------------
+Detected Text in frame735.jpg:
+
+--------------------
+Detected Text in frame736.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame737.jpg:
+
+--------------------
+Detected Text in frame738.jpg:
+
+--------------------
+Detected Text in frame739.jpg:
+2023-09-04 15:36%
+
+
+--------------------
+Detected Text in frame74.jpg:
+ug: 151.8 cen:
+
+
+--------------------
+Detected Text in frame740.jpg:
+
+--------------------
+Detected Text in frame741.jpg:
+
+--------------------
+Detected Text in frame742.jpg:
+
+--------------------
+Detected Text in frame743.jpg:
+
+--------------------
+Detected Text in frame744.jpg:
+
+--------------------
+Detected Text in frame745.jpg:
+
+--------------------
+Detected Text in frame746.jpg:
+
+--------------------
+Detected Text in frame747.jpg:
+2023-09-04 15:3646)
+
+
+--------------------
+Detected Text in frame748.jpg:
+
+--------------------
+Detected Text in frame749.jpg:
+ax: 286.9 min:
+
+
+--------------------
+Detected Text in frame75.jpg:
+ax: 344.9 min:
+ug: 151.8 cen:
+umd
+
+
+--------------------
+Detected Text in frame750.jpg:
+ax: 286.9 min: 69.3)
+ug: 165.0 cen: 281.6
+>Numd
+
+
+--------------------
+Detected Text in frame751.jpg:
+2023-09-04 15:36:19]
+
+ax: 286.9 min: 69.3)
+ug: 165.0 cen: 281.6
+
+
+--------------------
+Detected Text in frame752.jpg:
+ax: 293.1 min: 85.5
+ug: 149.2 cen: 269.6)
+
+
+--------------------
+Detected Text in frame753.jpg:
+
+--------------------
+Detected Text in frame754.jpg:
+
+--------------------
+Detected Text in frame755.jpg:
+i B 2023-09-04 15:36s49]
+
+
+--------------------
+Detected Text in frame756.jpg:
+293.41. 2023-09-04 15:36%
+
+
+--------------------
+Detected Text in frame757.jpg:
+
+--------------------
+Detected Text in frame758.jpg:
+
+--------------------
+Detected Text in frame759.jpg:
+
+--------------------
+Detected Text in frame76.jpg:
+ax: 344.9 min: 83.2)
+ug: 151.8 cen: 317.4]
+>Num1
+
+
+--------------------
+Detected Text in frame760.jpg:
+
+--------------------
+Detected Text in frame761.jpg:
+
+--------------------
+Detected Text in frame762.jpg:
+ax: 293.1 min: 85.’
+ug: 149.2 cen: 269.6
+Nun
+
+
+--------------------
+Detected Text in frame763.jpg:
+93.1 min: 85.’
+
+
+--------------------
+Detected Text in frame764.jpg:
+ax: 293.1 min: 85.
+wg: 149.2 cen: 269.1
+Num,
+
+207.2)
+
+
+--------------------
+Detected Text in frame765.jpg:
+85.
+ie 149.2 cen: 269.
+Num
+
+
+--------------------
+Detected Text in frame766.jpg:
+
+--------------------
+Detected Text in frame767.jpg:
+2023-09-04 15:36:47]
+
+
+--------------------
+Detected Text in frame768.jpg:
+
+--------------------
+Detected Text in frame769.jpg:
+2023-09-04 15:36:
+
+
+--------------------
+Detected Text in frame77.jpg:
+3-09-04 15:35:50)
+
+344
+
+
+--------------------
+Detected Text in frame770.jpg:
+2023-09-04 15:36:
+
+
+--------------------
+Detected Text in frame771.jpg:
+
+--------------------
+Detected Text in frame772.jpg:
+
+--------------------
+Detected Text in frame773.jpg:
+
+--------------------
+Detected Text in frame774.jpg:
+
+--------------------
+Detected Text in frame775.jpg:
+
+--------------------
+Detected Text in frame776.jpg:
+ax: 300.1 min:
+ug: 161.9 cen:
+
+
+--------------------
+Detected Text in frame777.jpg:
+ax: 300.1 min:
+ug: 161.9 cen:
+
+
+--------------------
+Detected Text in frame778.jpg:
+2023-09-04 15:36%
+
+18
+
+
+--------------------
+Detected Text in frame779.jpg:
+ax? 300.1 min:
+ug: 161.9 cen:
+
+
+--------------------
+Detected Text in frame78.jpg:
+
+--------------------
+Detected Text in frame780.jpg:
+
+--------------------
+Detected Text in frame781.jpg:
+
+--------------------
+Detected Text in frame782.jpg:
+
+--------------------
+Detected Text in frame783.jpg:
+300.1. m: 2023-09-04 15:36:
+
+
+--------------------
+Detected Text in frame784.jpg:
+
+--------------------
+Detected Text in frame785.jpg:
+
+--------------------
+Detected Text in frame786.jpg:
+2023-03-04
+
+
+--------------------
+Detected Text in frame787.jpg:
+
+--------------------
+Detected Text in frame788.jpg:
+87.4]
+161.9 cen: 290.6)
+
+i 219.6]
+
+
+--------------------
+Detected Text in frame789.jpg:
+
+--------------------
+Detected Text in frame79.jpg:
+923-09-04 15:35:50}
+
+
+--------------------
+Detected Text in frame790.jpg:
+
+--------------------
+Detected Text in frame791.jpg:
+
+--------------------
+Detected Text in frame792.jpg:
+
+--------------------
+Detected Text in frame793.jpg:
+
+--------------------
+Detected Text in frame794.jpg:
+
+--------------------
+Detected Text in frame795.jpg:
+
+--------------------
+Detected Text in frame796.jpg:
+
+--------------------
+Detected Text in frame797.jpg:
+
+--------------------
+Detected Text in frame798.jpg:
+
+--------------------
+Detected Text in frame799.jpg:
+
+--------------------
+Detected Text in frame8.jpg:
+aug: 153.2 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame80.jpg:
+
+--------------------
+Detected Text in frame800.jpg:
+
+--------------------
+Detected Text in frame801.jpg:
+i)
+
+
+--------------------
+Detected Text in frame802.jpg:
+36. 6)
+
+=
+
+--------------------
+Detected Text in frame803.jpg:
+=
+
+--------------------
+Detected Text in frame804.jpg:
+
+--------------------
+Detected Text in frame805.jpg:
+2023-09-04 15:36219)
+
+
+--------------------
+Detected Text in frame806.jpg:
+2023-09-04 15:36:19)
+
+316
+
+
+--------------------
+Detected Text in frame807.jpg:
+
+--------------------
+Detected Text in frame808.jpg:
+max: 316-6 min: 86.6]
+
+
+--------------------
+Detected Text in frame809.jpg:
+
+--------------------
+Detected Text in frame81.jpg:
+157.0 min
+
+152
+
+
+--------------------
+Detected Text in frame810.jpg:
+max: 316.6 min: 86.6] P 2023-09-04 15:36:19)
+316
+
+
+--------------------
+Detected Text in frame811.jpg:
+
+--------------------
+Detected Text in frame812.jpg:
+2023-09-04 15:36:19
+
+
+--------------------
+Detected Text in frame813.jpg:
+316
+
+
+--------------------
+Detected Text in frame814.jpg:
+
+--------------------
+Detected Text in frame815.jpg:
+
+--------------------
+Detected Text in frame816.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame817.jpg:
+
+--------------------
+Detected Text in frame818.jpg:
+
+--------------------
+Detected Text in frame819.jpg:
+
+--------------------
+Detected Text in frame82.jpg:
+157.0 min
+96.3 cen: f 152
+
+
+--------------------
+Detected Text in frame820.jpg:
+2023-09-04 15:36:19)
+
+
+--------------------
+Detected Text in frame821.jpg:
+2023-09-04 15:36:19
+
+
+--------------------
+Detected Text in frame822.jpg:
+max? 316.6 min:
+aug: 160.2 cen:
+
+
+--------------------
+Detected Text in frame823.jpg:
+max: 316.6 min: 86.6]
+wg: 160.2 cen: 307.6]
+
+
+--------------------
+Detected Text in frame824.jpg:
+ax: 316.6 min: 86.6] 2023-09-04 15:36:19
+
+
+--------------------
+Detected Text in frame825.jpg:
+ax: 316.6 min: 86.6] | 2023-09-04 15:36:20
+
+
+--------------------
+Detected Text in frame826.jpg:
+ax: 337.1 min: 80.8)
+wig: 135.5 cen: 322.0 : [316.6
+
+214.5)
+
+
+--------------------
+Detected Text in frame827.jpg:
+ax: 337.1 min: 60.8 72023-03-04 15:36:
+pug: 135.5 cen: 322.0)
+unt
+
+
+--------------------
+Detected Text in frame828.jpg:
+max: 337.1 min: 80.8) Wy 2023-09-04 15:36:29)
+pug: 135.5 cen: 322.6)
+
+
+--------------------
+Detected Text in frame829.jpg:
+© 2023-09-04 15:36:20}
+
+EE
+
+
+--------------------
+Detected Text in frame83.jpg:
+157.0 min
+
+152
+
+
+--------------------
+Detected Text in frame830.jpg:
+max? 332.1 min: 80.8) © 2023-09-04 15:36:20)
+ug: 135.5 cen: 322.0) [
+
+
+--------------------
+Detected Text in frame831.jpg:
+max: 337.1 min: 60.8] 2023-09-04
+ug: 135.5 cen: 322.0
+
+
+--------------------
+Detected Text in frame832.jpg:
+max: 33?.1 min: 80.8]
+ug: 135.5 cen: 322.0)
+
+
+--------------------
+Detected Text in frame833.jpg:
+
+--------------------
+Detected Text in frame834.jpg:
+fax? 332.1 min: 80.8)
+
+ug: 135.5 cen: 322.6) 3 L332.
+
+
+--------------------
+Detected Text in frame835.jpg:
+max? 332.1 min: 80.8) 2023-09-04
+ug: 135.5 cen: 322.0)
+>Numt
+
+
+--------------------
+Detected Text in frame836.jpg:
+max? 332.1 min: 80.8)
+ug: 135.5 cen: 322.6)
+>Numt
+
+
+--------------------
+Detected Text in frame837.jpg:
+ug: 135.5 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame838.jpg:
+ug: 135.5 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame839.jpg:
+ug: 135.5 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame84.jpg:
+152
+
+
+--------------------
+Detected Text in frame840.jpg:
+ug: 135.5 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame841.jpg:
+ug: 135.5 cen:
+>Numt
+
+2023-09-04 15:36:20
+
+
+--------------------
+Detected Text in frame842.jpg:
+ug: 135.5 cen:
+>Numt
+
+2023-09-04 15:36
+
+
+--------------------
+Detected Text in frame843.jpg:
+max? 332.1 min: 80.8) 2023-09-04 15:36:20)
+ug: 135.5 cen: 322.6)
+>Num
+
+
+--------------------
+Detected Text in frame844.jpg:
+ug: 135.5 cen: 322. Ed
+bNunt
+
+
+--------------------
+Detected Text in frame845.jpg:
+
+--------------------
+Detected Text in frame846.jpg:
+ug: 135.5 cen:
+bNund
+
+|
+
+
+--------------------
+Detected Text in frame847.jpg:
+2023-09-04 15:36:20
+
+
+--------------------
+Detected Text in frame848.jpg:
+ug: 135.5 cen: 322. Z Eq
+bNunt
+
+
+--------------------
+Detected Text in frame849.jpg:
+ug: 135.5 cen:
+>Num
+
+
+--------------------
+Detected Text in frame85.jpg:
+152
+
+
+--------------------
+Detected Text in frame850.jpg:
+ax: 337.1 min: 80.8]
+ug: 135.5 cen: 322.0
+>Numt
+
+214.5)
+
+
+--------------------
+Detected Text in frame851.jpg:
+Num 4
+
+
+--------------------
+Detected Text in frame852.jpg:
+ax: 323.3 min: 81.5)
+ug? 139.2 cen: 314.9
+Nun
+
+213.4)
+
+i:
+
+--------------------
+Detected Text in frame853.jpg:
+ax: 323.3 min: 61.5)
+ug: 139.2 cen: 314.9
+Numd
+
+213.4]
+
+
+--------------------
+Detected Text in frame854.jpg:
+ax: 323.3 min: 61.5)
+ug: 139.2 cen: 314.9
+Numd
+
+213.1)
+
+
+--------------------
+Detected Text in frame855.jpg:
+ax: 323.3 min:
+ug: 139.7 cen:
+Numd
+
+
+--------------------
+Detected Text in frame856.jpg:
+ax: 323.3 min: 61.5)
+ug: 139.2 cen: 314.9
+Numd
+
+213.1)
+
+
+--------------------
+Detected Text in frame857.jpg:
+ax: 323.3 min: 81.5)
+ug: 139.2 cen: 314.9
+
+213.1)
+
+
+--------------------
+Detected Text in frame858.jpg:
+323
+
+
+--------------------
+Detected Text in frame859.jpg:
+ax: 323.3 min: 61.5)
+ug: 139.2 cen: 314.9 3 323
+
+213.1)
+
+
+--------------------
+Detected Text in frame86.jpg:
+152
+
+
+--------------------
+Detected Text in frame860.jpg:
+max: 323.3 min: 81.5} 2023-09-04
+ug: 139.2 cen: 314.9
+>Numd
+
+213.1)
+
+
+--------------------
+Detected Text in frame861.jpg:
+ax: 323.3 min: 61.5)
+ug: 139.2 cen: 314.9
+>Numd
+
+213.1)
+
+
+--------------------
+Detected Text in frame862.jpg:
+max: 323.3 min: 81.5}
+ug: 139.2 cen: 314.9
+>Numd
+
+213.1)
+
+
+--------------------
+Detected Text in frame863.jpg:
+max: 323.3 min: 81.5)
+ug: 139.7 cen: 314.9
+>Numt
+
+
+--------------------
+Detected Text in frame864.jpg:
+max: 323.3 min: 81.5}
+ug: 139.7 cen: 314.9
+>Numd
+
+213.1)
+
+‘2
+|
+
+
+--------------------
+Detected Text in frame865.jpg:
+wax? 323.3 min:
+ug: 139.7 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame866.jpg:
+wax: 323.3 min: 81.5]
+ug: 139.2 cen: 314.9
+
+>Numt
+
+213.1)
+
+2023-09-04 15:36:21)
+
+--------------------
+Detected Text in frame867.jpg:
+ug: 139.7 cen:
+Numd
+
+
+--------------------
+Detected Text in frame868.jpg:
+ax: 323.3 min: B1.5]
+ug: 139.2 cen: 314.9
+>Numd
+
+
+--------------------
+Detected Text in frame869.jpg:
+ax: 323.3 min: B15]
+ug: 139.2 cen: 314.9
+Numd
+
+213.1)
+
+
+--------------------
+Detected Text in frame87.jpg:
+152
+
+
+--------------------
+Detected Text in frame870.jpg:
+ax: 323.3 min: B15]
+ug: 139.2 cen: 314.9 323
+Numd
+
+213.1)
+
+
+--------------------
+Detected Text in frame871.jpg:
+ax: 323.3 min: B15]
+ug 139.2 cen: 314.9
+Numd
+
+213.1)
+
+
+--------------------
+Detected Text in frame872.jpg:
+ax: 323.3 min: B15]
+ug: 139.2 cen: 314.9
+Numd
+
+213.1)
+
+
+--------------------
+Detected Text in frame873.jpg:
+max: 323.3 min: 81.5]
+ug: 139.7 cen: 314.9
+>Numt
+
+
+--------------------
+Detected Text in frame874.jpg:
+max: 323.3 min: 81.5]
+ug: 139.7 cen: 314.9
+>Numt
+
+213.1)
+
+
+--------------------
+Detected Text in frame875.jpg:
+max: 323.3 min: 81.5}
+ug: 139.7 cen: 314.9
+>Numt
+
+213.1)
+
+
+--------------------
+Detected Text in frame876.jpg:
+max: 354.3 min: 79.9)
+ug: 135.8 cen: 337.5
+>Numt
+
+
+--------------------
+Detected Text in frame877.jpg:
+max: 354.9 min: 79.9)
+ug: 135.8 cen: 337.5) 354
+>Numd :
+
+
+--------------------
+Detected Text in frame878.jpg:
+ax: 354.9 min: 79.9]
+ug: 135.8 cen: 337.5
+>Numt
+
+213.2)
+
+
+--------------------
+Detected Text in frame879.jpg:
+ax: 354.9 min: 79.9]
+ug: 135.8 cen: 337.5
+>Numt
+
+213.2)
+
+
+--------------------
+Detected Text in frame88.jpg:
+
+--------------------
+Detected Text in frame880.jpg:
+max: 354.9 min: 79. 2023-09-04
+ug? 135.8 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame881.jpg:
+2023-09-04
+
+max: 354.9 min:
+ug? 135.8 cen:
+Numd
+
+
+--------------------
+Detected Text in frame882.jpg:
+354
+
+
+--------------------
+Detected Text in frame883.jpg:
+
+--------------------
+Detected Text in frame884.jpg:
+
+--------------------
+Detected Text in frame885.jpg:
+354
+
+
+--------------------
+Detected Text in frame886.jpg:
+max: 354.9 min: 79.9}
+pug: 135.8 cen: 337.5
+Num
+
+213.7)
+
+
+--------------------
+Detected Text in frame887.jpg:
+max: 354.9 min:
+aug: 135.8 cen:
+Num
+
+
+--------------------
+Detected Text in frame888.jpg:
+max: 354.9 min: 79.9} 2023-09-04
+pug: 135.8 cen: 337.5] i : 1 354
+Hund
+
+213.7)
+
+
+--------------------
+Detected Text in frame889.jpg:
+max: 354.9 min: 79.9}
+aug: 135.8 cen: 337.5
+Num,
+
+
+--------------------
+Detected Text in frame89.jpg:
+2023-09-04 15:35:50)
+
+
+--------------------
+Detected Text in frame890.jpg:
+aug: 135.8 cen:
+umd
+
+
+--------------------
+Detected Text in frame891.jpg:
+ug: 135.8 cen:
+umd
+
+
+--------------------
+Detected Text in frame892.jpg:
+ax: 354.9 min: 79.9]
+ug: 135.8 cen: 337.5]
+
+
+--------------------
+Detected Text in frame893.jpg:
+
+--------------------
+Detected Text in frame894.jpg:
+2023-09-04 15:36:22]
+
+
+--------------------
+Detected Text in frame895.jpg:
+ax: 354.9 min: 79.9) 2023-09-04 15:36:22)
+
+aug: 135.8 cen: 337.5
+
+>Numd
+
+213.7)
+
+
+--------------------
+Detected Text in frame896.jpg:
+ax: 354.9 min: 79.9) 2023-09-04 15:36
+aug: 135.8 cen: 337.5
+>Numd
+
+
+--------------------
+Detected Text in frame897.jpg:
+max: 354.9 min: 79.9}
+aug: 135.8 cen: 337.5
+>Numd
+
+
+--------------------
+Detected Text in frame898.jpg:
+max: 354.9 min:
+aug: 135.8 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame899.jpg:
+ax: 354.9 min: 79. 2
+aug: 135.8 cen: 3
+
+
+--------------------
+Detected Text in frame9.jpg:
+aug: 153.2 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame90.jpg:
+
+--------------------
+Detected Text in frame900.jpg:
+
+--------------------
+Detected Text in frame901.jpg:
+
+--------------------
+Detected Text in frame902.jpg:
+
+--------------------
+Detected Text in frame903.jpg:
+
+--------------------
+Detected Text in frame904.jpg:
+
+--------------------
+Detected Text in frame905.jpg:
+2023-09-04 15:36:23
+
+
+--------------------
+Detected Text in frame906.jpg:
+
+--------------------
+Detected Text in frame907.jpg:
+hug: 165.3 cen: 300.1
+Num
+
+3 218.2)
+
+
+--------------------
+Detected Text in frame908.jpg:
+ax: 367.6 min: 87. 2023-09-04
+aug: 165.3 cen:
+umd
+
+
+--------------------
+Detected Text in frame909.jpg:
+
+--------------------
+Detected Text in frame91.jpg:
+
+--------------------
+Detected Text in frame910.jpg:
+nax: 307.6 min: 8?! 2023-09-04 153363
+wg: 165.3 cen: 300.
+
+
+--------------------
+Detected Text in frame911.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame912.jpg:
+
+--------------------
+Detected Text in frame913.jpg:
+
+--------------------
+Detected Text in frame914.jpg:
+
+--------------------
+Detected Text in frame915.jpg:
+
+--------------------
+Detected Text in frame916.jpg:
+
+--------------------
+Detected Text in frame917.jpg:
+
+--------------------
+Detected Text in frame918.jpg:
+* Z We 2023-09-04
+
+
+--------------------
+Detected Text in frame919.jpg:
+
+--------------------
+Detected Text in frame92.jpg:
+19-04 15:35:50)
+
+
+--------------------
+Detected Text in frame920.jpg:
+
+--------------------
+Detected Text in frame921.jpg:
+
+--------------------
+Detected Text in frame922.jpg:
+
+--------------------
+Detected Text in frame923.jpg:
+
+--------------------
+Detected Text in frame924.jpg:
+
+--------------------
+Detected Text in frame925.jpg:
+2023-09-04 15:36%
+
+
+--------------------
+Detected Text in frame926.jpg:
+axt 287.9 min: 86.9 : 2023-09-04
+
+
+--------------------
+Detected Text in frame927.jpg:
+axt 267.9 min: 86.9 2023-09-04 15:36:
+pug: 163.2 cen: 275.1 :
+md fs
+
+
+--------------------
+Detected Text in frame928.jpg:
+aug: 163.2 cen:
+Mund
+
+
+--------------------
+Detected Text in frame929.jpg:
+ax: 207.9 min: 86.9
+aug: 163.2 cen: 275.1
+Num,
+
+213.9
+
+
+--------------------
+Detected Text in frame93.jpg:
+
+--------------------
+Detected Text in frame930.jpg:
+x: 262.9 min? 86.9)
+aug: 163.2 cen: 275.1)
+Num,
+
+213.9
+
+
+--------------------
+Detected Text in frame931.jpg:
+x: 267.9 min? 86.9)
+aug: 163.2 cen: 275.1]
+Nun
+
+213.9)
+
+
+--------------------
+Detected Text in frame932.jpg:
+x: 262.9 mint
+aug: 163.2 cen:
+und
+
+
+--------------------
+Detected Text in frame933.jpg:
+
+--------------------
+Detected Text in frame934.jpg:
+
+--------------------
+Detected Text in frame935.jpg:
+
+--------------------
+Detected Text in frame936.jpg:
+
+--------------------
+Detected Text in frame937.jpg:
+2023-09-04 15:36:24)
+
+
+--------------------
+Detected Text in frame938.jpg:
+2023-09-04 15:36:24
+
+
+--------------------
+Detected Text in frame939.jpg:
+
+--------------------
+Detected Text in frame94.jpg:
+
+--------------------
+Detected Text in frame940.jpg:
+2023-09-04 15
+
+
+--------------------
+Detected Text in frame941.jpg:
+
+--------------------
+Detected Text in frame942.jpg:
+
+--------------------
+Detected Text in frame943.jpg:
+282.9 min:
+
+86.9)
+
+ig: 163.2 cen: 275.1]
+
+
+--------------------
+Detected Text in frame944.jpg:
+
+--------------------
+Detected Text in frame945.jpg:
+wg: 163.2 cen:
+Num
+
+
+--------------------
+Detected Text in frame946.jpg:
+
+--------------------
+Detected Text in frame947.jpg:
+uy: 163.2 cen:
+>Numd
+
+
+--------------------
+Detected Text in frame948.jpg:
+: 287.9 min: 86.9
+ug: 163.2 cen: 275.1]
+>Numt
+
+
+--------------------
+Detected Text in frame949.jpg:
+ug: 163.2 cen:
+>Numt
+
+
+--------------------
+Detected Text in frame95.jpg:
+152
+
+
+--------------------
+Detected Text in frame950.jpg:
+
+--------------------
+Detected Text in frame951.jpg:
+
+--------------------
+Detected Text in frame952.jpg:
+297.1 min:
+: 155.3 cen:
+7
+
+
+--------------------
+Detected Text in frame953.jpg:
+292.1 min:
+
+
+--------------------
+Detected Text in frame954.jpg:
+
+--------------------
+Detected Text in frame955.jpg:
+
+--------------------
+Detected Text in frame956.jpg:
+2023-09-04 153
+
+‘C,Dist:0.70 Atm. Temp: 25.
+
+
+--------------------
+Detected Text in frame957.jpg:
+
+--------------------
+Detected Text in frame958.jpg:
+
+--------------------
+Detected Text in frame959.jpg:
+
+--------------------
+Detected Text in frame96.jpg:
+9-04 15:35:50)
+
+152
+
+
+--------------------
+Detected Text in frame960.jpg:
+
+--------------------
+Detected Text in frame961.jpg:
+2023-09-04 15:36%
+
+
+--------------------
+Detected Text in frame962.jpg:
+
+--------------------
+Detected Text in frame963.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame964.jpg:
+2023-09-04 15:36:25)
+
+a >
+
+--------------------
+Detected Text in frame965.jpg:
+
+--------------------
+Detected Text in frame966.jpg:
+
+--------------------
+Detected Text in frame967.jpg:
+2023-09-04 15:36:25)
+
+
+--------------------
+Detected Text in frame968.jpg:
+2023-09-04 15:36:25)
+
+
+--------------------
+Detected Text in frame969.jpg:
+x: 297.1 min? 86.2)
+155.3 cen: 268.6)
+
+
+--------------------
+Detected Text in frame97.jpg:
+152,
+
+
+--------------------
+Detected Text in frame970.jpg:
+
+--------------------
+Detected Text in frame971.jpg:
+ax? 297.1 min: 86.
+pug: 155.3 cen: 288.6}
+
+
+--------------------
+Detected Text in frame972.jpg:
+
+--------------------
+Detected Text in frame973.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame974.jpg:
+ax? 297.1 min: 86.
+pug: 155.3 cen: 288.8
+
+
+--------------------
+Detected Text in frame975.jpg:
+ax? 297.1 min: 86.
+pug: 155.3 cen: 288.8
+
+
+--------------------
+Detected Text in frame976.jpg:
+ax? 305.9 min: 83.9
+ug: 145.9 cen: 301.5
+Num
+
+214.7
+
+
+--------------------
+Detected Text in frame977.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame978.jpg:
+ax: 305.9 min: 83.9
+ug: 145.3 cen: 301.5}
+
+
+--------------------
+Detected Text in frame979.jpg:
+ax: 305.9 min?
+ug: 145.3 cen: 301.5
+
+
+--------------------
+Detected Text in frame98.jpg:
+152,
+
+Atm. Temp: 2!
+
+--------------------
+Detected Text in frame980.jpg:
+ax? 305.9 min:
+ug: 145.9 cen?
+
+2023-09-04
+
+
+--------------------
+Detected Text in frame981.jpg:
+
+--------------------
+Detected Text in frame982.jpg:
+
+--------------------
+Detected Text in frame983.jpg:
+
+--------------------
+Detected Text in frame984.jpg:
+
+--------------------
+Detected Text in frame985.jpg:
+
+--------------------
+Detected Text in frame986.jpg:
+
+--------------------
+Detected Text in frame987.jpg:
+
+--------------------
+Detected Text in frame988.jpg:
+2023-09-04
+
+
+--------------------
+Detected Text in frame989.jpg:
+
+--------------------
+Detected Text in frame99.jpg:
+2023-09-04 15:35:50}
+
+152
+
+
+--------------------
+Detected Text in frame990.jpg:
+
+--------------------
+Detected Text in frame991.jpg:
+
+--------------------
+Detected Text in frame992.jpg:
+
+--------------------
+Detected Text in frame993.jpg:
+
+--------------------
+Detected Text in frame994.jpg:
+
+--------------------
+Detected Text in frame995.jpg:
+
+--------------------
+Detected Text in frame996.jpg:
+
+--------------------
+Detected Text in frame997.jpg:
+| (2023-09-04 15:36%:
+
+
+--------------------
+Detected Text in frame998.jpg:
+2023-09-04 15:36
+
+
+--------------------
+Detected Text in frame999.jpg:
+
+--------------------
